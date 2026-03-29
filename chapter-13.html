@@ -118,6 +118,50 @@
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy court transparency tools and research.", "foundingDate": "2026-03-27", "areaServed": "US", "nonprofitStatus": "Nonprofit501c3", "sameAs": ["https://1328f.com", "https://1328f.org"]}
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://1328f.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Chapter 7 vs Chapter 13 Bankruptcy",
+          "item": "https://chapter7vs13.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chapter 13 Bankruptcy:The Complete Guide",
+          "item": "https://chapter7vs13.org/chapter-13.html"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "name": "Chapter 13 Bankruptcy:The Complete Guide",
+      "url": "https://chapter7vs13.org/chapter-13.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    }
+  ]
+}
+</script>
 
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
@@ -256,7 +300,7 @@ a:focus-visible,button:focus-visible{outline:2px solid #60a5fa;outline-offset:2p
 
 <div class="section">
   <h2>What Is Chapter 13 Bankruptcy?</h2>
-  <p>Chapter 13 is a <strong>reorganization</strong> bankruptcy. Instead of liquidating assets (as in <a href="/chapter-7.html">Chapter 7</a>), you propose a repayment plan lasting 3 to 5 years. Each month, you make a payment to a court-appointed trustee, who distributes the funds to your creditors according to the plan. After completing all required payments, remaining qualifying debts are discharged.</p>
+  <p>Chapter 13 is a <strong>reorganization</strong> bankruptcy. Instead of liquidating assets (as in <a href="/chapter-7.html">Chapter 7</a>), you propose a <a href="https://chapter13plan.org" title="Chapter 13 Repayment Plan -- Open Bankruptcy Project" target="_blank" rel="noopener">repayment plan</a> lasting 3 to 5 years. Each month, you make a payment to a court-appointed trustee, who distributes the funds to your creditors according to the plan. After completing all required payments, remaining qualifying debts are discharged.</p>
   <p>Chapter 13 is designed for individuals with regular income who want to:</p>
   <ul>
     <li>Save a home from foreclosure by curing mortgage arrears through the plan</li>
@@ -406,7 +450,7 @@ a:focus-visible,button:focus-visible{outline:2px solid #60a5fa;outline-offset:2p
   <p>Under 11 U.S.C. &sect; 1325(a)(4), unsecured creditors must receive at least as much through your Chapter 13 plan as they would have received in a Chapter 7 liquidation. If you have significant non-exempt assets, this increases your plan payment.</p>
 
   <h3>The Best Interest Test</h3>
-  <p>The plan must be proposed in good faith and must be feasible -- meaning you can actually make the payments. If the trustee or creditors believe the plan is not feasible, they will object to confirmation. Plans that are "confirmed to fail" (set up with payments the debtor clearly cannot sustain) contribute to the high dismissal rate.</p>
+  <p>The plan must be proposed in good faith and must be feasible -- meaning you can actually make the payments. If the trustee or creditors believe the plan is not feasible, they will object to confirmation. Plans that are "confirmed to fail" (set up with payments the debtor clearly cannot sustain) contribute to the high <a href="https://dismissalrate.org" title="Bankruptcy Dismissal Rates -- Open Bankruptcy Project" target="_blank" rel="noopener">dismissal rate</a>.</p>
 </div>
 
 <div class="section">
@@ -414,7 +458,7 @@ a:focus-visible,button:focus-visible{outline:2px solid #60a5fa;outline-offset:2p
   <p>This is Chapter 13's strongest unique benefit. Under <strong>11 U.S.C. &sect; 1322(b)(5)</strong>, you can cure mortgage arrears through the plan while maintaining current payments going forward.</p>
 
   <div class="callout green">
-    <p><strong>How it works:</strong> If you are $15,000 behind on your mortgage, you can spread that $15,000 over 60 months ($250/month) in your plan while continuing to make your regular mortgage payment directly. The automatic stay stops foreclosure at filing, and as long as you stay current on both the plan and your regular mortgage payment, you keep your home.</p>
+    <p><strong>How it works:</strong> If you are $15,000 behind on your mortgage, you can spread that $15,000 over 60 months ($250/month) in your plan while continuing to make your regular mortgage payment directly. The <a href="https://automaticstay.org" title="Automatic Stay in Bankruptcy -- Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> stops foreclosure at filing, and as long as you stay current on both the plan and your regular mortgage payment, you keep your home.</p>
   </div>
 
   <p>This is something <a href="/chapter-7.html">Chapter 7</a> cannot do. In Chapter 7, if you are behind on your mortgage, the lender can still foreclose after the bankruptcy is over (the personal debt may be discharged, but the lien survives). Chapter 13 gives you a mechanism to actually catch up.</p>
