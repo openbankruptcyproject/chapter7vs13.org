@@ -18,7 +18,7 @@
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="theme-color" content="#0d1117">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Debts Discharged Ch.7 vs 13?","acceptedAnswer":{"@type":"Answer","text":"See the detailed guide on this page."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Which debts can Chapter 13 discharge that Chapter 7 cannot?","acceptedAnswer":{"@type":"Answer","text":"The main debts covered by the Chapter 13 superdischarge but not Chapter 7 are: willful and malicious property damage debts (Section 523(a)(6) as applied to property) and non-support obligations from divorce or separation agreements (Section 523(a)(15)). This is narrower than before BAPCPA (2005), which eliminated several former superdischarge categories."}},{"@type":"Question","name":"Can I discharge medical debt in bankruptcy?","acceptedAnswer":{"@type":"Answer","text":"Yes. Medical debt is general unsecured debt and is fully dischargeable in both Chapter 7 and Chapter 13. In Chapter 7, the debt is eliminated in 3-4 months. In Chapter 13, you may pay a portion through your plan based on disposable income, and the rest is discharged at completion."}},{"@type":"Question","name":"What happens to my car loan in bankruptcy?","acceptedAnswer":{"@type":"Answer","text":"A car loan is a secured debt. In Chapter 7, you choose to either reaffirm the debt (keep paying), surrender the vehicle, or redeem it by paying its current value in a lump sum. In Chapter 13, you can keep the vehicle and cure any arrears through your plan. If the vehicle was purchased more than 910 days before filing, you may be able to cramdown the loan to the vehicle's current market value."}}]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org","description":"Free, open-source bankruptcy court transparency tools and research.","foundingDate":"2026-03-27","areaServed":"US","nonprofitStatus":"Nonprofit501c3"}
@@ -190,25 +190,71 @@ a:focus-visible,button:focus-visible{outline:2px solid #60a5fa;outline-offset:2p
 </div>
 <main id="main-content">
 <div class="content">
-<div class="section"><h2>Comparison</h2>
-<table class="data-table"><thead><tr><th>Debt</th><th>Ch.7</th><th>Ch.13</th></tr></thead><tbody>
-<tr><td>Credit cards</td><td class="good">Yes</td><td class="good">After plan</td></tr>
-<tr><td>Medical bills</td><td class="good">Yes</td><td class="good">After plan</td></tr>
-<tr><td>Personal loans</td><td class="good">Yes</td><td class="good">After plan</td></tr>
+<div class="section"><h2>Debt Discharge Comparison: Chapter 7 vs Chapter 13</h2>
+<p>Both Chapter 7 and Chapter 13 eliminate most unsecured debts, but they handle certain categories very differently. The table below shows which debts are dischargeable under each chapter.</p>
+<table class="data-table"><thead><tr><th>Debt Type</th><th>Ch.7</th><th>Ch.13</th></tr></thead><tbody>
+<tr><td>Credit cards</td><td class="good">Discharged</td><td class="good">Discharged after plan</td></tr>
+<tr><td>Medical bills</td><td class="good">Discharged</td><td class="good">Discharged after plan</td></tr>
+<tr><td>Personal loans</td><td class="good">Discharged</td><td class="good">Discharged after plan</td></tr>
+<tr><td>Utility arrears</td><td class="good">Discharged</td><td class="good">Discharged after plan</td></tr>
+<tr><td>Payday loans</td><td class="good">Discharged</td><td class="good">Discharged after plan</td></tr>
 <tr><td colspan="3" style="background:#161b22;color:#a78bfa;font-weight:600;text-align:center">Superdischarge (Ch.13 Only)</td></tr>
-<tr><td>Willful property damage</td><td class="bad">No</td><td class="good">Yes</td></tr>
-<tr><td>Non-support marital debts</td><td class="bad">No</td><td class="good">Yes</td></tr>
+<tr><td>Willful property damage</td><td class="bad">Not discharged</td><td class="good">Discharged</td></tr>
+<tr><td>Non-support marital debts</td><td class="bad">Not discharged</td><td class="good">Discharged</td></tr>
 <tr><td colspan="3" style="background:#161b22;color:#f85149;font-weight:600;text-align:center">Never Dischargeable</td></tr>
 <tr><td>Child support / alimony</td><td class="bad">Never</td><td class="bad">Never</td></tr>
-<tr><td>Recent taxes</td><td class="bad">No</td><td class="bad">Priority in plan</td></tr>
-<tr><td>Fraud debts</td><td class="bad">No</td><td class="bad">No</td></tr>
+<tr><td>Recent taxes (last 3 years)</td><td class="bad">Not discharged</td><td class="bad">Priority in plan</td></tr>
+<tr><td>Fraud debts</td><td class="bad">Not discharged</td><td class="bad">Not discharged</td></tr>
 <tr><td>Student loans</td><td class="bad">Hardship only</td><td class="bad">Hardship only</td></tr>
-<tr><td>DUI debts</td><td class="bad">No</td><td class="bad">No</td></tr>
-</tbody></table></div>
+<tr><td>DUI injury debts</td><td class="bad">Not discharged</td><td class="bad">Not discharged</td></tr>
+<tr><td>Criminal fines/restitution</td><td class="bad">Not discharged</td><td class="bad">Not discharged</td></tr>
+</tbody></table>
+</div>
+
+<div class="section"><h2>Secured vs. Unsecured vs. Priority Debts</h2>
+<p>Understanding the three categories of debt is essential for knowing how your debts will be treated in bankruptcy.</p>
+<h3>Secured Debts</h3>
+<p>Secured debts are backed by collateral -- a house (mortgage), a car (auto loan), or other property. In Chapter 7, you typically must either surrender the property, reaffirm the debt and keep paying, or redeem the property by paying its current value in a lump sum. In Chapter 13, you can keep secured property by paying through your plan, and you may be able to reduce the loan balance to the property's current value through a "cramdown" on certain debts. See <a href="/keep-property.html">keeping your property</a> for details.</p>
+<h3>Unsecured Debts</h3>
+<p>Unsecured debts have no collateral backing them -- credit cards, medical bills, personal loans, and most other consumer debt. These are the debts that bankruptcy is designed to eliminate. In Chapter 7, most unsecured debts are wiped out entirely in 3-4 months. In Chapter 13, you pay a portion of these debts through your plan based on your disposable income, and the remaining balance is discharged at plan completion.</p>
+<h3>Priority Debts</h3>
+<p>Priority debts receive special treatment under 11 U.S.C. section 507. They must be paid in full in a Chapter 13 plan and are not dischargeable in Chapter 7. Priority debts include recent income taxes (within 3 years of filing), domestic support obligations (child support and alimony), and certain employee wage claims. While you cannot eliminate these debts, Chapter 13 allows you to pay them over 3-5 years without interest or penalties in many cases.</p>
+</div>
+
 <div class="section"><h2>The Chapter 13 Superdischarge</h2>
-<p>The Chapter 13 "superdischarge" is one of the most powerful but least understood features of bankruptcy law. Under <a href="https://section1328.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Section 1328 Discharge -- Open Bankruptcy Project" target="_blank" rel="noopener">Section 1328(a)</a>, a completed <a href="https://chapter13plan.org" title="Chapter 13 Repayment Plan -- Open Bankruptcy Project" target="_blank" rel="noopener">Chapter 13 plan</a> discharges certain debts that survive a Chapter 7 discharge. This includes willful and malicious property damage (<a href="https://523a.org" title="Section 523 Nondischargeable Debts -- Open Bankruptcy Project" target="_blank" rel="noopener">Section 523</a>(a)(6) as applied to property, not persons), non-support obligations from divorce or separation agreements (<a href="https://523a.org" title="Section 523 Nondischargeable Debts -- Open Bankruptcy Project" target="_blank" rel="noopener">Section 523</a>(a)(15)), and certain other debts.</p>
-<p>This makes Chapter 13 strategically valuable for debtors who owe debts that would not be discharged in Chapter 7. However, BAPCPA in 2005 narrowed the superdischarge by making more debt categories <a href="https://nondischargeable.org" title="Nondischargeable Debts -- Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a> in both chapters. The debts that remain eligible for superdischarge are still significant for affected debtors. Consult the full list of <a href="https://nondischargeable.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Nondischargeable Debts in Bankruptcy -- Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable debts</a> to understand what each chapter covers.</p></div>
-<div class="section"><h2>Related</h2><ul><li><a href="https://523a.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network">523a.org</a></li><li><a href="https://nondischargeable.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network">nondischargeable.org</a></li><li><a href="https://bankruptcystudentloans.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network">bankruptcystudentloans.org</a></li></ul></div>
+<p>The Chapter 13 "superdischarge" is one of the most powerful but least understood features of bankruptcy law. Under <a href="https://section1328.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Section 1328 Discharge -- Open Bankruptcy Project" target="_blank" rel="noopener">Section 1328(a)</a>, a completed <a href="https://chapter13plan.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Chapter 13 Repayment Plan -- Open Bankruptcy Project" target="_blank" rel="noopener">Chapter 13 plan</a> discharges certain debts that survive a Chapter 7 discharge. The key superdischarge debts include:</p>
+<ul>
+<li><strong>Willful and malicious property damage</strong> -- <a href="https://523a.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Section 523 Nondischargeable Debts -- Open Bankruptcy Project" target="_blank" rel="noopener">Section 523(a)(6)</a> as applied to property, not persons. If you damaged someone's car, fence, or other property intentionally, Chapter 13 can discharge that debt.</li>
+<li><strong>Non-support marital debts</strong> -- <a href="https://523a.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Section 523 Nondischargeable Debts -- Open Bankruptcy Project" target="_blank" rel="noopener">Section 523(a)(15)</a> debts from a divorce or separation agreement that are not alimony or child support. For example, if your divorce decree requires you to pay your ex-spouse's credit card balance, that obligation survives Chapter 7 but can be discharged in Chapter 13.</li>
+</ul>
+<p>This makes Chapter 13 strategically valuable for debtors who owe debts that would not be discharged in Chapter 7. However, BAPCPA in 2005 narrowed the superdischarge by making more debt categories <a href="https://nondischargeable.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Nondischargeable Debts -- Open Bankruptcy Project" target="_blank" rel="noopener">nondischargeable</a> in both chapters. Before BAPCPA, the superdischarge was significantly broader.</p>
+<div class="callout"><p><strong>Important:</strong> The superdischarge is only available through a full Section 1328(a) discharge after completing all plan payments. A <a href="https://bankruptcyhardship.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Hardship Discharge -- Open Bankruptcy Project" target="_blank" rel="noopener">hardship discharge</a> under Section 1328(b) does not include superdischarge protections.</p></div>
+</div>
+
+<div class="section"><h2>Special Cases: Student Loans and Taxes</h2>
+<h3>Student Loans</h3>
+<p>Student loans are notoriously difficult to discharge in bankruptcy. Under Section 523(a)(8), both federal and private student loans are nondischargeable unless you can prove "undue hardship" through an adversary proceeding. Most courts apply the Brunner test, which requires showing that (1) you cannot maintain a minimal standard of living while repaying, (2) your situation is likely to persist, and (3) you made good-faith efforts to repay. However, recent DOJ guidance has softened the standard, and more student loan discharges are being granted. See <a href="https://bankruptcystudentloans.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Student Loans in Bankruptcy -- Open Bankruptcy Project" target="_blank" rel="noopener">bankruptcystudentloans.org</a> for the latest developments.</p>
+<h3>Tax Debts</h3>
+<p>Some tax debts can be discharged in bankruptcy, but strict timing rules apply. Generally, income taxes may be dischargeable if: the tax return was due more than 3 years ago, the return was filed more than 2 years ago, and the tax was assessed more than 240 days ago. In Chapter 13, non-dischargeable priority tax debts must be paid in full through the plan, but this gives you 3-5 years to pay without additional penalties or interest accruing. See <a href="https://bankruptcytaxes.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Bankruptcy and Taxes -- Open Bankruptcy Project" target="_blank" rel="noopener">bankruptcytaxes.org</a> for detailed timing rules.</p>
+</div>
+
+<div class="section">
+<h2>Frequently Asked Questions</h2>
+<div class="faq-item">
+  <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">Which debts can Chapter 13 discharge that Chapter 7 cannot?</div>
+  <div class="faq-a">The main debts covered by the Chapter 13 "superdischarge" but not Chapter 7 are: willful and malicious property damage debts (Section 523(a)(6) as applied to property) and non-support obligations from divorce or separation agreements (Section 523(a)(15)). This is narrower than before BAPCPA (2005), which eliminated several former superdischarge categories.</div>
+</div>
+<div class="faq-item">
+  <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">Can I discharge medical debt in bankruptcy?</div>
+  <div class="faq-a">Yes. Medical debt is general unsecured debt and is fully dischargeable in both Chapter 7 and Chapter 13. In Chapter 7, the debt is eliminated in 3-4 months. In Chapter 13, you may pay a portion through your plan based on disposable income, and the rest is discharged at completion.</div>
+</div>
+<div class="faq-item">
+  <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">What happens to my car loan in bankruptcy?</div>
+  <div class="faq-a">A car loan is a secured debt. In Chapter 7, you choose to either reaffirm the debt (keep paying), surrender the vehicle, or redeem it by paying its current value in a lump sum. In Chapter 13, you can keep the vehicle and cure any arrears through your plan. If the vehicle was purchased more than 910 days before filing, you may be able to "cramdown" the loan to the vehicle's current market value.</div>
+</div>
+</div>
+
+<div class="section"><h2>Related</h2><ul><li><a href="https://523a.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network">523a.org -- Nondischargeable Debts</a></li><li><a href="https://nondischargeable.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network">nondischargeable.org</a></li><li><a href="https://bankruptcystudentloans.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network">bankruptcystudentloans.org</a></li><li><a href="/keep-property.html">Keeping Your Property</a></li><li><a href="/conversion.html">Converting Between Chapters</a></li></ul></div>
 <div class="section">
   <p style="font-size:13px;color:#888">Last updated: March 2026. Not legal advice.</p>
   <span class="rules-badge">Part of the Bankruptcy Transparency Network</span>

@@ -18,7 +18,7 @@
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="theme-color" content="#0d1117">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Keep House and Car in Bankruptcy?","acceptedAnswer":{"@type":"Answer","text":"See the detailed guide on this page."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can I keep my house if I file Chapter 7?","acceptedAnswer":{"@type":"Answer","text":"Yes, if your equity is within your state's homestead exemption and you are current on your mortgage payments. You will need to reaffirm the mortgage debt or continue making payments. If you are behind on payments, Chapter 7 cannot help you catch up -- only Chapter 13 can cure mortgage arrears."}},{"@type":"Question","name":"What is a cramdown in Chapter 13?","acceptedAnswer":{"@type":"Answer","text":"A cramdown reduces the secured portion of a car loan to the vehicle's current market value. It only applies to vehicles purchased more than 910 days (about 2.5 years) before filing. If you owe $18,000 on a car worth $10,000, you pay $10,000 as secured debt (plus interest) and the remaining $8,000 becomes unsecured debt that may be partially or fully discharged."}},{"@type":"Question","name":"Is my retirement account safe in bankruptcy?","acceptedAnswer":{"@type":"Answer","text":"Yes. Employer-sponsored retirement accounts (401(k), 403(b), pension plans) are fully exempt under federal law with no dollar limit. Traditional and Roth IRAs are exempt up to approximately $1.5 million (adjusted periodically). This applies in both Chapter 7 and Chapter 13."}}]}
 </script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org","description":"Free, open-source bankruptcy court transparency tools and research.","foundingDate":"2026-03-27","areaServed":"US","nonprofitStatus":"Nonprofit501c3"}
@@ -190,23 +190,88 @@ a:focus-visible,button:focus-visible{outline:2px solid #60a5fa;outline-offset:2p
 </div>
 <main id="main-content">
 <div class="content">
-<div class="section"><h2>Ch.7 Exemptions</h2>
-<table class="data-table"><thead><tr><th>Property</th><th>Federal</th></tr></thead><tbody>
-<tr><td>Homestead</td><td>$27,900</td></tr>
-<tr><td>Vehicle</td><td>$4,450</td></tr>
-<tr><td>Retirement</td><td class="good">Fully exempt</td></tr>
-</tbody></table></div>
-<div class="section"><h2>Ch.13 Advantages</h2>
-<ul><li>Cure mortgage arrears</li><li>Cure car loan arrears</li><li>Cramdown car loans 910+ days</li><li>Keep non-exempt assets</li></ul>
-<p>Chapter 13 is the stronger choice for homeowners behind on their mortgage. You can cure the entire arrearage over the life of your 3-5 year plan while continuing to make regular mortgage payments going forward. The <a href="https://automaticstay.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Automatic Stay in Bankruptcy -- Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> halts foreclosure immediately upon filing, giving you time to get current.</p>
-<p>For car loans, Chapter 13 offers the "cramdown" option on vehicles purchased more than 910 days before filing. The court reduces the secured claim to the vehicle's current market value rather than the loan balance. If you owe $15,000 on a car worth $8,000, your plan only needs to pay the $8,000 secured portion (plus interest). The remaining $7,000 is treated as unsecured debt and may be partially or fully discharged. <a href="https://lienstripping.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Lien Stripping in Bankruptcy -- Open Bankruptcy Project" target="_blank" rel="noopener">Lien stripping</a> may also be available for underwater second mortgages in some circuits.</p></div>
-<div class="section"><h2>Comparison</h2>
-<table class="data-table"><thead><tr><th>Scenario</th><th>Ch.7</th><th>Ch.13</th></tr></thead><tbody>
-<tr><td>Home within exemption</td><td class="good">Keep</td><td class="good">Keep</td></tr>
-<tr><td>Home behind on mortgage</td><td class="bad">Cannot cure</td><td class="good">Cure in plan</td></tr>
-<tr><td>Car behind on loan</td><td class="warn">Reaffirm/surrender</td><td class="good">Cure in plan</td></tr>
-</tbody></table></div>
-<div class="section"><h2>Related</h2><ul><li><a href="/comparison.html">Comparison</a></li><li><a href="https://meanstest.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network">meanstest.org</a></li></ul></div>
+<div class="section"><h2>How Property Works in Chapter 7</h2>
+<p>Chapter 7 is a liquidation bankruptcy. In theory, the trustee can sell your non-exempt property to pay creditors. In practice, most Chapter 7 cases are "no-asset" cases -- meaning everything you own is protected by exemptions and nothing gets sold.</p>
+<p>The key to keeping your property in Chapter 7 is understanding your state's exemptions. Some states let you choose between state and federal exemptions; others require you to use state exemptions only.</p>
+
+<h3>Federal Exemption Amounts (2026)</h3>
+<table class="data-table"><thead><tr><th>Property Type</th><th>Federal Exemption</th><th>Notes</th></tr></thead><tbody>
+<tr><td>Homestead</td><td>$27,900</td><td>Per person; doubles for married couples filing jointly</td></tr>
+<tr><td>Vehicle</td><td>$4,450</td><td>One vehicle; equity above this amount is at risk</td></tr>
+<tr><td>Household goods</td><td>$700 per item, $14,875 total</td><td>Furniture, appliances, clothing</td></tr>
+<tr><td>Jewelry</td><td>$1,875</td><td>Total for all jewelry</td></tr>
+<tr><td>Wildcard</td><td>$1,475 + up to $13,950 unused homestead</td><td>Apply to any property</td></tr>
+<tr><td>Retirement accounts</td><td class="good">Fully exempt (unlimited)</td><td>401(k), IRA, pension, etc.</td></tr>
+<tr><td>Tools of trade</td><td>$2,800</td><td>Equipment needed for your job</td></tr>
+</tbody></table>
+<div class="callout"><p><strong>State exemptions vary widely.</strong> Some states like Texas and Florida offer unlimited homestead exemptions. Others like New Jersey cap the homestead at $0 (no state homestead exemption). Your state's exemption laws can be the deciding factor in whether Chapter 7 works for you. Check <a href="https://bankruptcyexemptionsbystate.com?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Bankruptcy Exemptions by State -- Open Bankruptcy Project" target="_blank" rel="noopener">bankruptcyexemptionsbystate.com</a> for your state's specific amounts.</p></div>
+
+<h3>What Happens to Secured Property in Chapter 7</h3>
+<p>For property with a loan attached (house, car), you have three options in Chapter 7:</p>
+<ul>
+<li><strong>Reaffirm the debt:</strong> Sign a new agreement to keep paying. You keep the property but remain personally liable on the loan.</li>
+<li><strong>Surrender the property:</strong> Give it back to the lender. The remaining loan balance is discharged.</li>
+<li><strong>Redeem the property:</strong> Pay the lender the property's current market value in a single lump sum. Only available for personal property (not real estate).</li>
+</ul>
+</div>
+
+<div class="section"><h2>How Property Works in Chapter 13</h2>
+<p>Chapter 13's biggest advantage is that you keep all of your property. There is no liquidation. Instead, you repay creditors through a 3-5 year plan based on your disposable income. This makes Chapter 13 the go-to choice when you have property at risk.</p>
+
+<h3>Key Chapter 13 Property Protections</h3>
+<ul>
+<li><strong>Cure mortgage arrears:</strong> If you are behind on your mortgage, you can spread the arrearage over your entire plan while continuing regular monthly payments going forward. The <a href="https://automaticstay.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Automatic Stay in Bankruptcy -- Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a> halts foreclosure immediately upon filing.</li>
+<li><strong>Cure car loan arrears:</strong> Same principle -- catch up on missed car payments over the life of the plan while keeping the vehicle.</li>
+<li><strong>Cramdown car loans:</strong> For vehicles purchased more than 910 days before filing, the court reduces the secured claim to the vehicle's current market value. If you owe $15,000 on a car worth $8,000, your plan only needs to pay the $8,000 secured portion (plus interest at a court-approved rate). The remaining $7,000 is treated as unsecured debt.</li>
+<li><strong>Keep non-exempt assets:</strong> Property that would be liquidated in Chapter 7 is protected in Chapter 13 -- you just need to pay unsecured creditors at least what they would have received in a Chapter 7 liquidation (the "best interest of creditors" test).</li>
+<li><strong>Lien stripping:</strong> In some circuits, you can remove a second mortgage that is entirely underwater (the first mortgage exceeds the home's value). <a href="https://lienstripping.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network" title="Lien Stripping in Bankruptcy -- Open Bankruptcy Project" target="_blank" rel="noopener">Lien stripping</a> converts the second mortgage to unsecured debt, which may be partially or fully discharged.</li>
+</ul>
+</div>
+
+<div class="section"><h2>Property Protection Comparison</h2>
+<table class="data-table"><thead><tr><th>Scenario</th><th>Chapter 7</th><th>Chapter 13</th></tr></thead><tbody>
+<tr><td>Home within exemption, current on mortgage</td><td class="good">Keep</td><td class="good">Keep</td></tr>
+<tr><td>Home within exemption, behind on mortgage</td><td class="bad">Cannot cure arrears</td><td class="good">Cure arrears in plan</td></tr>
+<tr><td>Home equity exceeds exemption</td><td class="bad">Trustee may sell</td><td class="good">Keep; pay equivalent to creditors</td></tr>
+<tr><td>Car current on payments</td><td class="good">Keep (reaffirm)</td><td class="good">Keep</td></tr>
+<tr><td>Car behind on payments</td><td class="warn">Reaffirm or surrender</td><td class="good">Cure arrears in plan</td></tr>
+<tr><td>Car loan underwater (910+ days)</td><td class="warn">Pay full balance or surrender</td><td class="good">Cramdown to market value</td></tr>
+<tr><td>Retirement accounts</td><td class="good">Fully protected</td><td class="good">Fully protected</td></tr>
+<tr><td>Non-exempt personal property</td><td class="bad">Trustee may sell</td><td class="good">Keep; pay equivalent</td></tr>
+<tr><td>Underwater second mortgage</td><td class="bad">Must keep paying</td><td class="good">May strip lien (circuit-dependent)</td></tr>
+</tbody></table>
+</div>
+
+<div class="section"><h2>When Chapter 13 Is the Clear Winner</h2>
+<p>If any of these situations apply to you, Chapter 13 is almost certainly the better choice for protecting your property:</p>
+<ul>
+<li>You are behind on mortgage payments and facing foreclosure</li>
+<li>You have significant home equity that exceeds your state's homestead exemption</li>
+<li>You are behind on car payments and need the vehicle for work</li>
+<li>You have a car loan with negative equity on a vehicle purchased more than 910 days ago</li>
+<li>You have an underwater second mortgage that could be stripped</li>
+<li>You own business equipment, investment property, or other valuable non-exempt assets</li>
+</ul>
+<div class="callout green"><p><strong>The trade-off:</strong> Chapter 13 lets you keep everything, but you pay for it through 3-5 years of monthly plan payments. Chapter 7 is faster (3-4 months) but puts non-exempt property at risk. If your property is fully covered by exemptions, Chapter 7 gives you the same protection with a much shorter timeline.</p></div>
+</div>
+
+<div class="section">
+<h2>Frequently Asked Questions</h2>
+<div class="faq-item">
+  <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">Can I keep my house if I file Chapter 7?</div>
+  <div class="faq-a">Yes, if your equity is within your state's homestead exemption and you are current on your mortgage payments. You will need to reaffirm the mortgage debt or continue making payments. If you are behind on payments, Chapter 7 cannot help you catch up -- only Chapter 13 can cure mortgage arrears.</div>
+</div>
+<div class="faq-item">
+  <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">What is a cramdown in Chapter 13?</div>
+  <div class="faq-a">A cramdown reduces the secured portion of a car loan to the vehicle's current market value. It only applies to vehicles purchased more than 910 days (about 2.5 years) before filing. If you owe $18,000 on a car worth $10,000, you pay $10,000 as secured debt (plus interest) and the remaining $8,000 becomes unsecured debt that may be partially or fully discharged.</div>
+</div>
+<div class="faq-item">
+  <div class="faq-q" onclick="this.parentElement.classList.toggle('open')">Is my retirement account safe in bankruptcy?</div>
+  <div class="faq-a">Yes. Employer-sponsored retirement accounts (401(k), 403(b), pension plans) are fully exempt under federal law with no dollar limit. Traditional and Roth IRAs are exempt up to approximately $1.5 million (adjusted periodically). This applies in both Chapter 7 and Chapter 13.</div>
+</div>
+</div>
+
+<div class="section"><h2>Related</h2><ul><li><a href="/comparison.html">Comparison</a></li><li><a href="https://meanstest.org?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network">meanstest.org</a></li><li><a href="https://keepmycarinbankruptcy.com?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network">keepmycarinbankruptcy.com</a></li><li><a href="https://keepmyhouseinbankruptcy.com?utm_source=chapter7vs13.org&utm_medium=referral&utm_campaign=btn-network">keepmyhouseinbankruptcy.com</a></li><li><a href="/debt-types.html">Debt Types</a></li></ul></div>
 <div class="section">
   <p style="font-size:13px;color:#888">Last updated: March 2026. Not legal advice.</p>
   <span class="rules-badge">Part of the Bankruptcy Transparency Network</span>
