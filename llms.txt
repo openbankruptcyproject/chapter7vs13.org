@@ -1,0 +1,48 @@
+# Chapter 7 vs 13 Bankruptcy -- Complete Comparison [2026]
+> Chapter 7 vs Chapter 13 -- which is right for you? Compare eligibility, cost, timeline, and what you keep with our data-driven tool. Free 2026 guide.
+
+## About
+chapter7vs13.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Chapter 7 vs Chapter 13 After Divorce (2026): https://chapter7vs13.org/bankruptcy-after-divorce.html
+- Chapter 7 vs Chapter 13: Keeping Your Assets (2026): https://chapter7vs13.org/ch7-vs-ch13-assets.html
+- Chapter 7 vs Chapter 13 for Business Owners (2026): https://chapter7vs13.org/ch7-vs-ch13-business-owners.html
+- Chapter 7 vs Chapter 13 for Car Owners (2026): https://chapter7vs13.org/ch7-vs-ch13-car-owners.html
+- Chapter 7 vs Chapter 13 Cost Comparison (2026): https://chapter7vs13.org/ch7-vs-ch13-cost.html
+- Chapter 7 vs Chapter 13: Credit Score Impact (2026): https://chapter7vs13.org/ch7-vs-ch13-credit-score.html
+- Chapter 7 vs Chapter 13: Which Debts Are Eliminated? (2026): https://chapter7vs13.org/ch7-vs-ch13-debt-types.html
+- Chapter 7 vs Chapter 13 for Homeowners (2026): https://chapter7vs13.org/ch7-vs-ch13-homeowners.html
+- Chapter 7 vs Chapter 13: Income Requirements (2026): https://chapter7vs13.org/ch7-vs-ch13-income.html
+- Chapter 7 vs Chapter 13 for Seniors and Retirees (2026): https://chapter7vs13.org/ch7-vs-ch13-seniors.html
+- Chapter 7 vs Chapter 13 and Student Loans (2026): https://chapter7vs13.org/ch7-vs-ch13-student-loans.html
+- Chapter 7 vs Chapter 13 Timeline Comparison (2026): https://chapter7vs13.org/ch7-vs-ch13-timeline.html
+- Chapter 7 vs Chapter 13 for Veterans (2026): https://chapter7vs13.org/ch7-vs-ch13-veterans.html
+- Chapter 13 Bankruptcy: The Complete Guide (2026): https://chapter7vs13.org/chapter-13.html
+- Chapter 7 Bankruptcy: The Complete Guide (2026): https://chapter7vs13.org/chapter-7.html
+- Chapter 7 vs Chapter 13 Comparison Chart -- Complete Side-by-Side (2026): https://chapter7vs13.org/comparison.html
+- Convert Chapter 13 to 7 or 7 to 13 (2026): https://chapter7vs13.org/conversion.html
+- Chapter 7 vs Chapter 13 Cost Comparison -- Filing Fees, Attorney Fees (2026): https://chapter7vs13.org/cost-comparison.html
+- Chapter 7 vs 13 Credit Impact (2026): https://chapter7vs13.org/credit-impact.html
+- Debts Discharged Ch.7 vs 13 -- Superdischarge (2026): https://chapter7vs13.org/debt-types.html
+- Chapter 7 vs 13 Bankruptcy -- Complete Comparison: https://chapter7vs13.org/
+- Keep House and Car in Bankruptcy (2026): https://chapter7vs13.org/keep-property.html
+- The Bankruptcy Means Test: Do You Qualify for Chapter 7? (2026): https://chapter7vs13.org/means-test.html
+- How Long Does Chapter 7 vs Chapter 13 Take? Timeline Comparison (2026): https://chapter7vs13.org/timeline.html
+- Bankruptcy Waiting Periods: How Long Between Filings? (2026): https://chapter7vs13.org/waiting-periods.html
+- Which Bankruptcy Chapter Should I File? (2026 Decision Guide): https://chapter7vs13.org/which-chapter-should-i-file.html
+- Should I File Chapter 7 or Chapter 13? Decision Framework (2026): https://chapter7vs13.org/which-chapter.html
+- Converting Chapter 13 to Chapter 7 Bankruptcy -- Complete Guide (2026): https://chapter7vs13.org/convert-chapter-13-to-chapter-7.html
+- Converting Chapter 7 to Chapter 13 Bankruptcy -- Save Your Home and Assets (2026): https://chapter7vs13.org/convert-chapter-7-to-chapter-13.html
+- Emergency Bankruptcy Filing -- Bare-Bones Petition Guide (2026): https://chapter7vs13.org/emergency-bankruptcy-filing.html
+- Chapter 7 vs Chapter 13 Decision Tree -- Which Should You File? (2026): https://chapter7vs13.org/decision-tree.html
+- Chapter 7 vs Chapter 13 FAQ -- Which Bankruptcy Should You File?: https://chapter7vs13.org/frequently-asked-questions.html
+- Chapter 7 vs Chapter 13 Comparison Table -- Side-by-Side: https://chapter7vs13.org/comparison-table.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
