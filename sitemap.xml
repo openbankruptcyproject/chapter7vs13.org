@@ -325,6 +325,42 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://chapter7vs13.org/convert-chapter-13-to-chapter-7.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chapter7vs13.org/convert-chapter-7-to-chapter-13.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chapter7vs13.org/emergency-bankruptcy-filing.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chapter7vs13.org/convert-chapter-13-to-chapter-7-es.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chapter7vs13.org/convert-chapter-7-to-chapter-13-es.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://chapter7vs13.org/emergency-bankruptcy-filing-es.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://chapter7vs13.org/decision-tree.html</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>weekly</changefreq>
