@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Page Not Found</title>
+<title>Page Not Found -- chapter7vs13.org</title>
 <meta name="robots" content="noindex">
 <meta name="theme-color" content="#0d1117">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -19,119 +19,59 @@
 </script>
 <!-- BTN:GA4:END -->
 <style>
-  :root {
-    --bg: #0d1117;
-    --surface: #161b22;
-    --border: #30363d;
-    --text: #e6edf3;
-    --text-muted: #9eaab6;
-    --accent: #58a6ff;
-    --green: #238636;
-  }
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #238636; }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    line-height: 1.7;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-  }
-  a { color: var(--accent); text-decoration: none; }
-  a:hover { text-decoration: underline; }
-  nav {
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    padding: 0.75rem 2rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-  .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
-  .site-name:hover { color: var(--accent); text-decoration: none; }
-  .container {
-    max-width: 700px;
-    margin: 0 auto;
-    padding: 3rem 2rem;
-    flex: 1;
-  }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; min-height: 100vh; display: flex; flex-direction: column; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; }
+  .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; } .site-name:hover { color: var(--accent); text-decoration: none; }
+  .container { max-width: 700px; margin: 0 auto; padding: 3rem 2rem; flex: 1; }
   h1 { color: #f0f6fc; font-size: 2.5rem; margin-bottom: 0.5rem; text-align: center; }
   .subtitle { color: var(--text-muted); font-size: 1.1rem; margin-bottom: 2.5rem; text-align: center; }
-  .home-btn {
-    display: inline-block;
-    background: var(--green);
-    color: #fff;
-    padding: 0.6rem 1.5rem;
-    border-radius: 6px;
-    font-weight: 600;
-    font-size: 1rem;
-    margin-bottom: 2rem;
-  }
-  .home-btn:hover { background: #2ea043; text-decoration: none; }
+  .home-btn { display: inline-block; background: var(--green); color: #fff; padding: 0.6rem 1.5rem; border-radius: 6px; font-weight: 600; font-size: 1rem; margin-bottom: 2rem; } .home-btn:hover { background: #2ea043; text-decoration: none; }
   .btn-center { text-align: center; }
-  .section {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 1.5rem;
-    margin-bottom: 1.5rem;
-  }
+  .section { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 1.5rem; margin-bottom: 1.5rem; }
   .section h2 { color: #f0f6fc; font-size: 1.1rem; margin-bottom: 0.75rem; }
-  .section ul { list-style: none; padding: 0; }
-  .section li { margin-bottom: 0.5rem; }
-  .section li a { font-size: 0.95rem; }
+  .section ul { list-style: none; padding: 0; } .section li { margin-bottom: 0.5rem; } .section li a { font-size: 0.95rem; }
+  .section li .desc { color: var(--text-muted); font-size: 0.85rem; display: block; margin-top: 0.15rem; }
+  .tip-box { background: #0d2847; border: 1px solid #1f6feb; border-radius: 8px; padding: 1.25rem 1.5rem; margin-bottom: 1.5rem; font-size: 0.9rem; } .tip-box strong { color: #58a6ff; }
+  .search-suggestion { text-align: center; color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.5rem; }
   .help-links { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1rem; }
-  .help-links a {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    padding: 0.75rem 1.25rem;
-    font-size: 0.9rem;
-    flex: 1;
-    min-width: 200px;
-    text-align: center;
-  }
-  .help-links a:hover { border-color: var(--accent); text-decoration: none; }
-  footer {
-    background: var(--surface);
-    border-top: 1px solid var(--border);
-    padding: 1.5rem;
-    text-align: center;
-    font-size: 0.8rem;
-    color: var(--text-muted);
-  }
+  .help-links a { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 0.75rem 1.25rem; font-size: 0.9rem; flex: 1; min-width: 200px; text-align: center; } .help-links a:hover { border-color: var(--accent); text-decoration: none; }
+  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 1.5rem; text-align: center; font-size: 0.8rem; color: var(--text-muted); }
 </style>
 <meta property="og:image" content="/og-image.svg">
 <meta name="twitter:image" content="/og-image.svg">
-<link rel="canonical" href="https://chapter7vs13.org/404.html">
 </head>
 <body>
-
 <nav aria-label="Main navigation">
   <a href="/" class="site-name">chapter7vs13.org</a>
   <a href="/" style="color:var(--text-muted);font-size:0.9rem">Home</a>
 </nav>
-
 <div class="container">
   <h1>404</h1>
-  <p class="subtitle">The page you are looking for does not exist or has been moved.</p>
-
-  <div class="btn-center">
-    <a href="/" class="home-btn">Back to Home</a>
-  </div>
-
+  <p class="subtitle">This page does not exist or has been moved. But we can still help you compare Chapter 7 and Chapter 13.</p>
+  <div class="btn-center"><a href="/" class="home-btn">Chapter 7 vs 13 Comparison</a></div>
+  <p class="search-suggestion">Try searching for: <strong>Chapter 7 vs Chapter 13</strong>, <strong>means test</strong>, or <strong>which chapter should I file</strong></p>
   <div class="section">
-    <h2>You might be looking for:</h2>
+    <h2>Most Popular Comparisons</h2>
     <ul>
-      <li><a href="/">Chapter 7 vs 13 Bankruptcy</a></li>
-      <li><a href="/bankruptcy-after-divorce.html">Chapter 7 vs Chapter 13 After Divorce (2026)</a></li>
-      <li><a href="/ch7-vs-ch13-assets.html">Chapter 7 vs Chapter 13: Keeping Your Assets (2026)</a></li>
-      <li><a href="/ch7-vs-ch13-business-owners.html">Chapter 7 vs Chapter 13 for Business Owners (2026)</a></li>
-      <li><a href="/ch7-vs-ch13-car-owners.html">Chapter 7 vs Chapter 13 for Car Owners (2026)</a></li>
+      <li><a href="/comparison-table.html">Side-by-Side Comparison Table</a><span class="desc">Eligibility, cost, timeline, property, and credit impact -- Chapter 7 vs 13 at a glance.</span></li>
+      <li><a href="/which-chapter-should-i-file.html">Which Chapter Should I File?</a><span class="desc">A guided decision tree based on your income, assets, and goals.</span></li>
+      <li><a href="/means-test.html">The Means Test Explained</a><span class="desc">How income determines whether you qualify for Chapter 7 or must file Chapter 13.</span></li>
     </ul>
   </div>
-
+  <div class="tip-box">
+    <strong>Quick tip:</strong> Chapter 7 wipes out most unsecured debt in 3-4 months but requires passing the means test. Chapter 13 takes 3-5 years but lets you catch up on mortgage and car payments. If you are behind on a house or car, Chapter 13 is often the better choice.
+  </div>
+  <div class="section">
+    <h2>Related Guides</h2>
+    <ul>
+      <li><a href="https://bankruptcymeanstest.org">Means Test Calculator by State</a></li>
+      <li><a href="https://keepmycarinbankruptcy.com">Keep Your Car in Bankruptcy</a></li>
+      <li><a href="https://openbankruptcyproject.org">Open Bankruptcy Project -- Research &amp; Free Tools</a></li>
+    </ul>
+  </div>
   <div class="section">
     <h2>Need help?</h2>
     <div class="help-links">
@@ -139,19 +79,7 @@
       <a href="https://openbankruptcyproject.org/contact.html">Contact Us</a>
     </div>
   </div>
-
-  <div class="section">
-    <h2>Popular Resources</h2>
-    <ul>
-      <li><a href="https://1328f.com">Free Bankruptcy Discharge Screener</a></li>
-      <li><a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a></li>
-      <li><a href="https://chapter7vs13.org">Chapter 7 vs Chapter 13</a></li>
-      <li><a href="https://meanstest.org">Bankruptcy Means Test</a></li>
-      <li><a href="https://automaticstay.org">Automatic Stay Guide</a></li>
-    </ul>
-  </div>
 </div>
-
 <!-- BTN:FOOTER:START -->
 <footer role="contentinfo">
   <p>This site provides general information only and does not constitute legal advice.</p>
