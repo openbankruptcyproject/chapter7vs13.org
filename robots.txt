@@ -2,6 +2,6 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://chapter7vs13.org/sitemap.xml
 
-Sitemap: https://chapter7vs13.org/feed.xml
+
+Sitemap: https://chapter7vs13.org/sitemapindex.xml
