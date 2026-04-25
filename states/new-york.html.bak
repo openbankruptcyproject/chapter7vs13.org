@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<!-- BTN:GA4:START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+gtag('set','allow_ad_personalization_signals',false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
+<!-- BTN:GA4:END -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Chapter 7 vs Chapter 13 in New York [2026]: Means Test, Homestead, and Filing Data</title>
+<meta name="description" content="Chapter 7 vs Chapter 13 in New York. Means test by household size, New York homestead exemption ($89,975 to $179,975 (county-tier)), federal court filing data, and which chapter fits your facts.">
+<meta name="keywords" content="chapter 7 vs chapter 13 new york, new york bankruptcy, new york means test, new york homestead exemption, ny bankruptcy comparison, new york chapter 7 qualify, new york chapter 13 plan">
+<link rel="canonical" href="https://chapter7vs13.org/states/new-york.html">
+<meta property="og:title" content="Chapter 7 vs Chapter 13 in New York [2026]: Means Test, Homestead, and Filing Data">
+<meta property="og:description" content="Chapter 7 vs Chapter 13 in New York. Means test by household size, New York homestead exemption ($89,975 to $179,975 (county-tier)), federal court filing data, and which chapter fits your facts.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://chapter7vs13.org/states/new-york.html">
+<meta property="og:site_name" content="chapter7vs13.org">
+<meta property="og:image" content="/og-image.svg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Chapter 7 vs Chapter 13 in New York [2026]: Means Test, Homestead, and Filing Data">
+<meta name="twitter:description" content="Chapter 7 vs Chapter 13 in New York. Means test by household size, New York homestead exemption ($89,975 to $179,975 (county-tier)), federal court filing data, and which chapter fits your facts.">
+<meta name="twitter:image" content="/og-image.svg">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta name="theme-color" content="#0d1117">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{
+      "@type": "Question",
+      "name": "Is Chapter 7 or Chapter 13 better in New York?",
+      "acceptedAnswer": {"@type":"Answer","text":"For most New York filers who pass the means test, Chapter 7 is faster (3-4 months vs. 3-5 years), cheaper, and more likely to succeed. Chapter 13 is the right choice if you need to save a home from foreclosure, repay priority debts like taxes, or do not qualify for Chapter 7. The filing mix in New York and the local homestead exemption of $89,975 to $179,975 (county-tier) both affect the decision."}
+    },{
+      "@type": "Question",
+      "name": "What is the Chapter 7 income limit in New York?",
+      "acceptedAnswer": {"@type":"Answer","text":"New York's median income for a 1-person household is $73,272. A 4-person household is $129,700. If your annualized 6-month income is at or below the median for your household size, you pass Part 1 of the means test automatically. Above-median filers must run the full Part 2 expense calculation."}
+    },{
+      "@type": "Question",
+      "name": "Can I use federal exemptions in New York?",
+      "acceptedAnswer": {"@type":"Answer","text":"Yes. New York permits filers to choose federal exemptions under 11 U.S.C. Section 522(d) instead of state exemptions."}
+    },{
+      "@type": "Question",
+      "name": "How much home equity is protected in New York bankruptcy?",
+      "acceptedAnswer": {"@type":"Answer","text":"New York's homestead exemption protects $89,975 to $179,975 (county-tier) of equity in a primary residence under CPLR 5206. Federal BAPCPA limits under 11 U.S.C. Section 522(p) may cap this at approximately $214,000 for property acquired within 1,215 days of filing."}
+    }]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+{"@type":"ListItem","position":1,"name":"Home","item":"https://chapter7vs13.org/"},
+{"@type":"ListItem","position":2,"name":"By State","item":"https://chapter7vs13.org/states/"},
+{"@type":"ListItem","position":3,"name":"Chapter 7 vs Chapter 13 in New York","item":"https://chapter7vs13.org/states/new-york.html"}
+]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"Chapter 7 vs Chapter 13 in New York","description":"Chapter 7 vs Chapter 13 in New York. Means test by household size, New York homestead exemption ($89,975 to $179,975 (county-tier)), federal court filing data, and which chapter fits your facts.","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org"},"datePublished":"2026-04-18","dateModified":"2026-04-18","mainEntityOfPage":"https://chapter7vs13.org/states/new-york.html"}
+</script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;background:#0a0a0a;color:#e5e5e5;min-height:100vh}
+a{color:#60a5fa;text-decoration:none}a:hover{text-decoration:underline}
+a:focus-visible,button:focus-visible{outline:2px solid #60a5fa;outline-offset:2px}
+.skip-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;z-index:9999;padding:1rem;background:#238636;color:#fff;font-weight:600}
+.skip-link:focus{position:fixed;top:10px;left:10px;width:auto;height:auto;overflow:visible}
+.nav{background:#111;border-bottom:1px solid #333;padding:12px 24px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.nav .brand{color:#60a5fa;font-weight:700;font-size:16px;margin-right:auto}
+.nav-links{display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.nav-links a{color:#999;font-size:14px}.nav-links a:hover{color:#fff}
+.hamburger{display:none;background:none;border:1px solid #333;color:#e5e5e5;font-size:1.2rem;padding:6px 12px;border-radius:4px;cursor:pointer}
+.hero{text-align:center;padding:64px 24px 40px}
+.hero h1{font-size:32px;font-weight:700;color:#fff;margin-bottom:16px;line-height:1.3}
+.hero .subtitle{color:#999;font-size:17px;max-width:700px;margin:0 auto;line-height:1.7}
+.hero .badge{display:inline-block;background:#0d2137;border:1px solid #60a5fa;color:#60a5fa;padding:6px 16px;border-radius:20px;font-size:13px;font-weight:600;margin-bottom:20px}
+.content{max-width:860px;margin:0 auto;padding:0 24px}
+.vs-grid{display:grid;grid-template-columns:1fr auto 1fr;gap:0;margin:32px 0;border:1px solid #333;border-radius:12px;overflow:hidden}
+.vs-col{background:#111;padding:28px 24px}
+.vs-col h2{font-size:20px;margin-bottom:16px;text-align:center}
+.vs-col.ch7 h2{color:#3fb950}
+.vs-col.ch13 h2{color:#f0883e}
+.vs-divider{background:#0a0a0a;display:flex;align-items:center;justify-content:center;padding:0 16px;font-size:24px;font-weight:700;color:#666}
+.vs-row{display:flex;justify-content:space-between;padding:10px 0;border-bottom:1px solid #222;font-size:14px}
+.vs-row:last-child{border-bottom:none}
+.vs-label{color:#999}.vs-val{font-weight:600;color:#fff}
+.vs-val.good{color:#3fb950}.vs-val.warn{color:#f0883e}.vs-val.bad{color:#f85149}
+.section{margin:48px 0}
+.section h2{font-size:22px;color:#fff;margin-bottom:16px;padding-bottom:8px;border-bottom:1px solid #333}
+.section h3{font-size:18px;color:#e5e5e5;margin:24px 0 12px}
+.section p{color:#ccc;font-size:15px;line-height:1.8;margin-bottom:16px}
+.section ul,.section ol{color:#ccc;font-size:15px;line-height:1.8;margin:0 0 16px 24px}
+.section li{margin-bottom:8px}
+.data-table{width:100%;border-collapse:collapse;margin:20px 0;font-size:14px}
+.data-table th{background:#161b22;color:#e5e5e5;padding:10px 12px;text-align:left;border:1px solid #333;font-weight:600;font-size:13px}
+.data-table td{padding:10px 12px;border:1px solid #333;color:#ccc}
+.data-table tr:nth-child(even){background:#111}
+.data-table td.bad{color:#f85149;font-weight:600}
+.data-table td.good{color:#3fb950;font-weight:600}
+.data-table td.warn{color:#f0883e;font-weight:600}
+.data-table td.num{text-align:right;font-variant-numeric:tabular-nums}
+.callout{background:#111;border-left:4px solid #60a5fa;border-radius:0 8px 8px 0;padding:20px 24px;margin:24px 0}
+.callout.green{border-left-color:#3fb950}.callout.red{border-left-color:#f85149}.callout.orange{border-left-color:#f0883e}
+.callout p{margin-bottom:0;color:#ccc}.callout strong{color:#fff}
+.state-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.4rem;margin:1rem 0}
+.state-grid a{background:#161b22;border:1px solid #333;border-radius:6px;padding:.5rem .7rem;color:#60a5fa;font-size:.88rem;display:block}
+.state-grid a:hover{background:#1c2129;text-decoration:none}
+.state-grid span{background:#161b22;border:1px solid #333;border-radius:6px;padding:.5rem .7rem;color:#666;font-size:.88rem;display:block}
+.network-footer{background:#111;border-top:1px solid #333;padding:2rem 24px;text-align:center;margin-top:48px}
+.network-footer p{color:#888;font-size:0.85rem;margin-bottom:0.5rem}
+.network-footer .links{display:flex;justify-content:center;flex-wrap:wrap;gap:1rem;margin-top:0.75rem}
+.network-footer .links a{color:#888;font-size:0.85rem}.network-footer .links a:hover{color:#60a5fa}
+.rules-badge{display:inline-block;background:#0d2137;border:1px solid #1f6feb;padding:6px 14px;border-radius:6px;font-size:12px;color:#58a6ff;font-weight:600;margin:8px 0}
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}
+.breadcrumb-nav a{color:#58a6ff}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+@media(max-width:768px){.hero h1{font-size:24px}.hero{padding:40px 16px 28px}.hamburger{display:block}
+.nav-links{display:none;width:100%;flex-direction:column;gap:0;padding-top:12px}
+.nav-links.open{display:flex}.nav-links a{display:block;padding:10px 0;border-top:1px solid #222}
+.vs-grid{grid-template-columns:1fr}.vs-divider{padding:16px 0}.data-table{font-size:12px}}
+</style>
+</head>
+<body>
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<nav class="nav" role="navigation" aria-label="Site navigation">
+  <a href="/" class="brand">chapter7vs13.org</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/comparison.html">Side by Side</a>
+    <a href="/which-chapter.html">Which Chapter?</a>
+    <a href="/cost-comparison.html">Cost</a>
+    <a href="/timeline.html">Timeline</a>
+    <a href="/states/">By State</a>
+  </div>
+</nav>
+<div class="hero">
+  <div class="badge">New York &middot; NY</div>
+  <h1>Chapter 7 vs Chapter 13 in New York</h1>
+  <p class="subtitle">Means test thresholds, New York homestead protection, local federal court filing data, and which chapter actually fits the typical New York filer.</p>
+</div>
+<main id="main-content">
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="/">Home</a><span class="separator">&rsaquo;</span><a href="/states/">By State</a><span class="separator">&rsaquo;</span><span>New York</span></nav>
+
+<div class="content">
+
+<div class="section">
+<h2>The New York Answer in One Paragraph</h2>
+<p>New York filers choose between Chapter 7 (liquidation, 3-4 months, strong discharge rate) and Chapter 13 (3-5 year repayment plan, better for saving a home from foreclosure or for filers above the means test). Three New York-specific inputs drive the choice: (1) the New York means test median of <strong>$73,272</strong> for a 1-person household, (2) the New York homestead exemption of <strong>$89,975 to $179,975 (county-tier)</strong>, and (3) the local filing mix and outcome data below. Everything else on this page is elaboration on those three factors.</p>
+</div>
+
+<div class="section">
+<h2>Quick Side-by-Side</h2>
+<div class="vs-grid">
+  <div class="vs-col ch7"><h2>Chapter 7 in New York</h2>
+    <div class="vs-row"><span class="vs-label">Timeline</span><span class="vs-val good">3-4 months</span></div>
+    <div class="vs-row"><span class="vs-label">Income test</span><span class="vs-val">Pass if at or below $73,272 (1p)</span></div>
+    <div class="vs-row"><span class="vs-label">Filing fee</span><span class="vs-val">$338</span></div>
+    <div class="vs-row"><span class="vs-label">Attorney fees</span><span class="vs-val">$1,000-$2,500</span></div>
+    <div class="vs-row"><span class="vs-label">Homestead protected</span><span class="vs-val">$89,975 to $179,975 (county-tier)</span></div>
+    <div class="vs-row"><span class="vs-label">Discharge rate (nat'l)</span><span class="vs-val good">~93%</span></div>
+    <div class="vs-row"><span class="vs-label">Federal exemptions?</span><span class="vs-val">Yes</span></div>
+  </div>
+  <div class="vs-divider">vs</div>
+  <div class="vs-col ch13"><h2>Chapter 13 in New York</h2>
+    <div class="vs-row"><span class="vs-label">Timeline</span><span class="vs-val warn">3-5 years</span></div>
+    <div class="vs-row"><span class="vs-label">Income test</span><span class="vs-val">No ceiling; need regular income</span></div>
+    <div class="vs-row"><span class="vs-label">Filing fee</span><span class="vs-val">$313</span></div>
+    <div class="vs-row"><span class="vs-label">Attorney fees</span><span class="vs-val">$3,000-$5,000+</span></div>
+    <div class="vs-row"><span class="vs-label">Mortgage arrears</span><span class="vs-val good">Curable over plan</span></div>
+    <div class="vs-row"><span class="vs-label">Discharge rate (nat'l)</span><span class="vs-val bad">~40-50%</span></div>
+    <div class="vs-row"><span class="vs-label">Federal exemptions?</span><span class="vs-val">Yes</span></div>
+  </div>
+</div>
+</div>
+
+<div class="section">
+<h2>New York Means Test Thresholds (April 2026)</h2>
+<p>New York's single-person median of $73,272 sits near the national midpoint. Filers close to the line should compute a careful 6-month average - one high month (bonus, overtime, commission spike) can flip Part 1 from pass to fail.</p>
+<table class="data-table">
+  <thead><tr><th>Household Size</th><th>New York Median Income</th></tr></thead>
+  <tbody>
+<tr><td>1-person household</td><td class="num">$73,300</td></tr>
+<tr><td>2-person household</td><td class="num">$95,300</td></tr>
+<tr><td>3-person household</td><td class="num">$111,400</td></tr>
+<tr><td>4-person household</td><td class="num">$129,700</td></tr>
+<tr><td>5-person household</td><td class="num">$140,700</td></tr>
+<tr><td>6-person household</td><td class="num">$151,700</td></tr>
+  </tbody>
+</table>
+<p>For household sizes above 6, add $11,100 per additional member. Full details at the <a href="https://meanstest.org/new-york.html">New York means test calculator</a>. For a general discussion, see our <a href="/means-test.html">means test overview</a>.</p>
+</div>
+
+<div class="section">
+<h2>New York Homestead Exemption and the Chapter Choice</h2>
+<p>New York's homestead exemption protects <strong>$89,975 to $179,975 (county-tier)</strong> of primary-residence equity under CPLR 5206. If your home equity is below that amount, Chapter 7 can usually wipe out your unsecured debt without putting the home at risk. If your equity exceeds the exemption, Chapter 13 is typically the right tool to keep the home while cramming down or curing mortgage arrears over 3-5 years.</p>
+<p>New York lets filers <strong>choose</strong> between state exemptions and the federal bankruptcy exemption scheme (11 U.S.C. Section 522(d)). Review the full exemption list at <a href="https://bankruptcyexemptionsbystate.com/states/new-york.html">bankruptcyexemptionsbystate.com/new-york</a> before assuming any specific asset is safe.</p>
+<div class="callout orange"><p><strong>Homestead amount (New York):</strong> $89,975 to $179,975 (county-tier). Statute: CPLR 5206.</p></div>
+</div>
+
+<div class="section">
+<h2>New York's Chapter 7 vs Chapter 13 Filing Mix</h2>
+<p>New York follows the national pattern: 93.0% of its 1,231 consumer cases are Chapter 7, and 7.0% are Chapter 13. Most filers who qualify for Chapter 7 choose it, and Chapter 13 is reserved for filers who need to save a home from foreclosure or cannot pass the means test.</p>
+<p>Why does filing mix matter? Attorney fee structures often favor Chapter 13 (paid through the plan rather than up-front), which can produce local-market bias toward Chapter 13 that is not driven by individual debtor facts. FJC data lets you see whether New York's mix matches the economics of the typical filer's situation.</p>
+</div>
+
+
+<div class="section">
+<h2>New York Federal Court Data</h2>
+<p>Numbers below come from the Federal Judicial Center Integrated Database, covering <strong>1,231 consumer bankruptcy cases</strong> filed in New York's federal bankruptcy courts.</p>
+<table class="data-table">
+  <thead><tr><th>Chapter</th><th>Cases Filed</th><th>Discharge Rate (resolved)</th></tr></thead>
+  <tbody><tr><td>Chapter 7</td><td class="num">1,145</td><td class="good">98.8%</td></tr>
+<tr><td>Chapter 13</td><td class="num">86</td><td class="good">28.2%</td></tr>
+</tbody>
+</table>
+<p><strong>Outcomes in New York differ sharply between the chapters.</strong> Of resolved Chapter 7 cases in the FJC database, <span class='good'>98.8%</span> end in discharge. Of resolved Chapter 13 cases, only <span class='warn'>28.2%</span> end in discharge; the remaining <span class='bad'>71.8%</span> are dismissed before the plan completes. If you are physically able to file either chapter, this gap is a reason to think hard before committing to a 3-5 year Chapter 13 plan in New York.</p>
+</div>
+
+<div class="section">
+<h2>Which Chapter Fits Which New York Filer?</h2>
+<ol>
+<li><strong>If your income is below the New York median ($73,272, 1-person) and you own little non-exempt property:</strong> Chapter 7 is almost certainly the right choice. Fast, cheap, and the highest discharge rate in consumer bankruptcy.</li><li><strong>If you are behind on your mortgage or car loan and want to keep the collateral:</strong> Chapter 13 lets you cure arrears over 36 to 60 months while the automatic stay blocks foreclosure and repossession.</li><li><strong>If you have high home equity and New York caps the homestead exemption:</strong> run the numbers on Chapter 13 cramdown, lien stripping (for wholly underwater junior liens), and the federal BAPCPA homestead cap before assuming Chapter 7 is safe.</li><li><strong>If you have filed before within the lookback windows:</strong> use the <a href='https://1328f.com'>1328(f) discharge screener</a> first - a prior Chapter 7 discharge bars another Chapter 7 for 8 years, and a prior Chapter 13 discharge bars another Chapter 13 for 2 years.</li>
+</ol>
+<div class="callout green"><p><strong>Rule of thumb for New York:</strong> if you qualify for Chapter 7 on the means test AND your home equity is within the $89,975 to $179,975 (county-tier) homestead, Chapter 7 is almost always the right choice. Chapter 13 is the right answer when specific facts (arrears, non-exempt equity, prior Chapter 7 within 8 years) rule Chapter 7 out.</p></div>
+</div>
+
+<div class="section">
+<h2>Frequently Asked Questions</h2>
+
+<h3>Is Chapter 7 or Chapter 13 better in New York?</h3>
+<p>For most New York filers who pass the means test, Chapter 7 is faster, cheaper, and succeeds more often. Chapter 13 is the right choice if you need to save a home from foreclosure, cure arrears, catch up on priority taxes, or cannot qualify for Chapter 7.</p>
+
+<h3>What is the Chapter 7 income limit in New York?</h3>
+<p>There is no hard dollar limit. The means test compares your 6-month average income (annualized) to the New York median for your household size. One person: <strong>$73,272</strong>. Four person: <strong>$129,700</strong>. Above-median filers can still qualify by running Part 2 expense deductions.</p>
+
+<h3>Can I use federal bankruptcy exemptions in New York?</h3>
+<p>Yes. New York is an opt-in state - filers may choose federal exemptions under 11 U.S.C. Section 522(d) instead of state exemptions. Compare both schedules before filing; federal can offer a larger wildcard while state may offer a larger homestead.</p>
+
+<h3>How much home equity is protected in New York bankruptcy?</h3>
+<p>New York's homestead exemption protects <strong>$89,975 to $179,975 (county-tier)</strong> under CPLR 5206. Federal BAPCPA limits (11 U.S.C. Section 522(p)) can cap this at approximately $214,000 for a residence acquired within 1,215 days of filing.</p>
+
+<h3>How long does bankruptcy take in New York?</h3>
+<p>Chapter 7 takes 3 to 4 months from filing to discharge in New York federal bankruptcy court. Chapter 13 takes 3 years (below-median) or 5 years (above-median) of monthly plan payments before discharge.</p>
+
+<h3>Can I switch from Chapter 13 to Chapter 7 in New York?</h3>
+<p>Yes. Under 11 U.S.C. Section 1307(a), a Chapter 13 debtor in New York generally has the right to convert to Chapter 7 at any time, as long as the case was not previously converted from Chapter 7. You must still pass the means test at the time of conversion.</p>
+</div>
+
+<div class="section">
+<h2>Related New York Resources</h2>
+<ul>
+  <li><a href="https://meanstest.org/new-york.html">New York means test calculator</a></li>
+  <li><a href="https://bankruptcyexemptionsbystate.com/states/new-york.html">New York bankruptcy exemptions (full list)</a></li>
+  <li><a href="https://1328f.com">1328(f) prior-discharge eligibility screener</a></li>
+  <li><a href="/comparison.html">Full Chapter 7 vs Chapter 13 comparison</a></li>
+  <li><a href="/which-chapter.html">Which chapter should I file?</a></li>
+  <li><a href="/cost-comparison.html">Cost comparison</a></li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Browse Every State</h2>
+<div class="state-grid"><a href="/states/alabama.html">Alabama</a><a href="/states/alaska.html">Alaska</a><a href="/states/arizona.html">Arizona</a><a href="/states/arkansas.html">Arkansas</a><a href="/states/california.html">California</a><a href="/states/colorado.html">Colorado</a><a href="/states/connecticut.html">Connecticut</a><a href="/states/delaware.html">Delaware</a><a href="/states/district-of-columbia.html">District of Columbia</a><a href="/states/florida.html">Florida</a><a href="/states/georgia.html">Georgia</a><a href="/states/hawaii.html">Hawaii</a><a href="/states/idaho.html">Idaho</a><a href="/states/illinois.html">Illinois</a><a href="/states/indiana.html">Indiana</a><a href="/states/iowa.html">Iowa</a><a href="/states/kansas.html">Kansas</a><a href="/states/kentucky.html">Kentucky</a><a href="/states/louisiana.html">Louisiana</a><a href="/states/maine.html">Maine</a><a href="/states/maryland.html">Maryland</a><a href="/states/massachusetts.html">Massachusetts</a><a href="/states/michigan.html">Michigan</a><a href="/states/minnesota.html">Minnesota</a><a href="/states/mississippi.html">Mississippi</a><a href="/states/missouri.html">Missouri</a><a href="/states/montana.html">Montana</a><a href="/states/nebraska.html">Nebraska</a><a href="/states/nevada.html">Nevada</a><a href="/states/new-hampshire.html">New Hampshire</a><a href="/states/new-jersey.html">New Jersey</a><a href="/states/new-mexico.html">New Mexico</a><span>New York</span><a href="/states/north-carolina.html">North Carolina</a><a href="/states/north-dakota.html">North Dakota</a><a href="/states/ohio.html">Ohio</a><a href="/states/oklahoma.html">Oklahoma</a><a href="/states/oregon.html">Oregon</a><a href="/states/pennsylvania.html">Pennsylvania</a><a href="/states/rhode-island.html">Rhode Island</a><a href="/states/south-carolina.html">South Carolina</a><a href="/states/south-dakota.html">South Dakota</a><a href="/states/tennessee.html">Tennessee</a><a href="/states/texas.html">Texas</a><a href="/states/utah.html">Utah</a><a href="/states/vermont.html">Vermont</a><a href="/states/virginia.html">Virginia</a><a href="/states/washington.html">Washington</a><a href="/states/west-virginia.html">West Virginia</a><a href="/states/wisconsin.html">Wisconsin</a><a href="/states/wyoming.html">Wyoming</a></div>
+</div>
+
+<div class="section">
+  <p style="font-size:13px;color:#888">Last updated: 2026-04-18. Not legal advice. Statutory homestead and median-income figures are reproduced from public sources and may lag statutory amendments - verify against current state statute before relying.</p>
+  <span class="rules-badge">Part of the Bankruptcy Transparency Network</span>
+</div>
+</div>
+</main>
+<footer class="network-footer" role="contentinfo">
+  <p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+  <div class="links">
+    <a href="https://1328f.com">1328f.com</a>
+    <a href="https://1328f.org">1328f.org</a>
+    <a href="https://meanstest.org">meanstest.org</a>
+    <a href="https://bankruptcyexemptionsbystate.com">exemptions</a>
+    <a href="https://whatischapter7.com">whatischapter7.com</a>
+    <a href="https://chapter13plan.org">chapter13plan.org</a>
+    <a href="https://523a.org">523a.org</a>
+    <a href="https://howmuchdoesbankruptcycost.com">costs</a>
+    <a href="https://openbankruptcyproject.org">openbankruptcyproject.org</a>
+  </div>
+  <p class="disclaimer" style="margin-top:1rem;font-size:0.75rem;color:#666">Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+</footer>
+<script src="/btn-engage.js" defer></script>
+</body>
+</html>

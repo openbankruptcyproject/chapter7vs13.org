@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<!-- BTN:GA4:START -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
+<!-- BTN:GA4:END -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>Chapter 7 vs Chapter 13 Decision Tree - Which Should You File? (2026)</title>
+<meta content="Interactive decision tree for choosing between Chapter 7 and Chapter 13 bankruptcy. Answer 6 questions to find the right chapter for your situation." name="description"/>
+<meta content="chapter 7 or 13 decision tree, which bankruptcy chapter, bankruptcy decision guide, chapter 7 vs 13 quiz, should I file chapter 7 or 13" name="keywords"/>
+<link href="https://chapter7vs13.org/decision-tree.html" rel="canonical"/>
+<meta content="Chapter 7 vs Chapter 13 Decision Tree - Which Should You File? (2026)" property="og:title"/>
+<meta content="Interactive decision tree for choosing between Chapter 7 and Chapter 13 bankruptcy. Answer 6 questions to find the right chapter for your situation." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://chapter7vs13.org/decision-tree.html" property="og:url"/>
+<meta content="chapter7vs13.org" property="og:site_name"/>
+<meta content="/og-image.svg" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Chapter 7 vs Chapter 13 Decision Tree - Which Should You File? (2026)" name="twitter:title"/>
+<meta content="Interactive decision tree for choosing between Chapter 7 and Chapter 13 bankruptcy. Answer 6 questions to find the right chapter for your situation." name="twitter:description"/>
+<meta content="/og-image.svg" name="twitter:image"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<meta content="#0d1117" name="theme-color"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I decide between Chapter 7 and Chapter 13 bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the means test: if your income is below your state's median, you likely qualify for Chapter 7. Then consider your goals - do you need to save a home from foreclosure or catch up on car payments? If yes, Chapter 13. If you just want to eliminate unsecured debt quickly, Chapter 7 is usually better."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if I qualify for both Chapter 7 and Chapter 13?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many people qualify for both. Chapter 7 is generally preferred because it is faster (3-4 months vs 3-5 years), cheaper ($1,400-$2,900 vs $3,300-$5,300), and has a much higher success rate (93%+ vs ~48%). Choose Chapter 13 only if you have a specific reason: saving a home, cramming down a car loan, or repaying non-dischargeable priority debts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I switch from Chapter 13 to Chapter 7?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Under 11 U.S.C. section 1307(a), a Chapter 13 debtor can convert to Chapter 7 at any time, as long as the case was not previously converted from Chapter 7. This is a common move when plan payments become unaffordable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the means test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The means test compares your income to your state's median income for your household size. If you are below the median, you automatically qualify for Chapter 7. If above, you must calculate disposable income after allowed deductions. Many above-median filers still pass after deductions for mortgage, car payments, taxes, and other expenses."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://chapter7vs13.org"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Chapter7Vs13",
+      "item": "https://chapter7vs13.org/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Decision Tree",
+      "item": "https://chapter7vs13.org/decision-tree.html"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Chapter 7 vs Chapter 13 Decision Tree",
+  "description": "Interactive decision tree for choosing between Chapter 7 and Chapter 13 bankruptcy. Answer 6 questions to find the right chapter for your situation.",
+  "author": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Open Bankruptcy Project",
+    "url": "https://1328f.org"
+  },
+  "datePublished": "2026-04-09",
+  "dateModified": "2026-04-09",
+  "mainEntityOfPage": "https://chapter7vs13.org/decision-tree.html"
+}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "WebPage", "name": "Chapter 7 vs Chapter 13 Decision Tree (2026)", "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["h1", ".subtitle", ".faq-item h3", ".faq-item p"]}, "url": "https://chapter7vs13.org/decision-tree.html"}
+</script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;background:#0a0a0a;color:#e5e5e5;min-height:100vh}
+a{color:#60a5fa;text-decoration:none}
+a:hover{text-decoration:underline}
+a:focus-visible,button:focus-visible{outline:2px solid #60a5fa;outline-offset:2px}
+.skip-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;z-index:9999;padding:1rem;background:#238636;color:#fff;font-weight:600;text-decoration:none}
+.skip-link:focus{position:fixed;top:10px;left:10px;width:auto;height:auto;overflow:visible}
+.nav{background:#111;border-bottom:1px solid #333;padding:12px 24px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.nav .brand{color:#60a5fa;font-weight:700;font-size:16px;margin-right:auto;text-decoration:none}
+.nav .brand:hover{text-decoration:none;opacity:0.9}
+.nav-links{display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.nav-links a{color:#999;font-size:14px}
+.nav-links a:hover{color:#fff;text-decoration:none}
+.nav-links a.active{color:#fff;font-weight:600}
+.hamburger{display:none;background:none;border:1px solid #333;color:#e5e5e5;font-size:1.2rem;padding:6px 12px;border-radius:4px;cursor:pointer}
+.hero{text-align:center;padding:64px 24px 40px}
+.hero h1{font-size:32px;font-weight:700;color:#fff;margin-bottom:16px;line-height:1.3}
+.hero .subtitle{color:#999;font-size:17px;max-width:700px;margin:0 auto;line-height:1.7}
+.hero .badge{display:inline-block;background:#0d2137;border:1px solid #60a5fa;color:#60a5fa;padding:6px 16px;border-radius:20px;font-size:13px;font-weight:600;margin-bottom:20px}
+.content{max-width:860px;margin:0 auto;padding:0 24px}
+.section{margin:48px 0}
+.section h2{font-size:22px;color:#fff;margin-bottom:16px;padding-bottom:8px;border-bottom:1px solid #333}
+.section h3{font-size:18px;color:#e5e5e5;margin:24px 0 12px}
+.section p{color:#ccc;font-size:15px;line-height:1.8;margin-bottom:16px}
+.section ul,.section ol{color:#ccc;font-size:15px;line-height:1.8;margin:0 0 16px 24px}
+.section li{margin-bottom:8px}
+.callout{background:#111;border-left:4px solid #60a5fa;border-radius:0 8px 8px 0;padding:20px 24px;margin:24px 0}
+.callout.green{border-left-color:#3fb950}
+.callout.red{border-left-color:#f85149}
+.callout.orange{border-left-color:#f0883e}
+.callout p{margin-bottom:0;color:#ccc}
+.callout strong{color:#fff}
+.faq-item{background:#111;border:1px solid #333;border-radius:8px;margin-bottom:12px;overflow:hidden}
+.faq-q{padding:16px 20px;cursor:pointer;color:#fff;font-weight:600;font-size:15px;display:flex;justify-content:space-between;align-items:center}
+.faq-q:hover{background:#161b22}
+.faq-q::after{content:'+';font-size:20px;color:#888}
+.faq-item.open .faq-q::after{content:'-'}
+.faq-a{padding:0 20px 16px;color:#999;font-size:14px;line-height:1.7;display:none}
+.faq-item.open .faq-a{display:block}
+.network-footer{background:#111;border-top:1px solid #333;padding:2rem 24px;text-align:center;margin-top:48px}
+.network-footer p{color:#888;font-size:0.85rem;margin-bottom:0.5rem}
+.network-footer .links{display:flex;justify-content:center;flex-wrap:wrap;gap:1rem;margin-top:0.75rem}
+.network-footer .links a{color:#888;font-size:0.85rem}
+.network-footer .links a:hover{color:#60a5fa}
+.network-footer .disclaimer{margin-top:1rem;font-size:0.75rem;color:#666}
+.rules-badge{display:inline-block;background:#0d2137;border:1px solid #1f6feb;padding:6px 14px;border-radius:6px;font-size:12px;color:#58a6ff;font-weight:600;margin:8px 0}
+/* Decision tree styles */
+.dt-step{background:#111;border:1px solid #333;border-radius:12px;padding:24px;margin:16px 0;display:none}
+.dt-step.active{display:block}
+.dt-question{font-size:18px;color:#fff;font-weight:600;margin-bottom:16px}
+.dt-options{display:flex;flex-direction:column;gap:10px}
+.dt-btn{background:#161b22;border:1px solid #333;border-radius:8px;padding:14px 20px;color:#e5e5e5;font-size:15px;cursor:pointer;text-align:left;transition:border-color 0.2s,background 0.2s}
+.dt-btn:hover{border-color:#60a5fa;background:#0d2137}
+.dt-result{background:#111;border:2px solid #3fb950;border-radius:12px;padding:28px;margin:16px 0;display:none}
+.dt-result.ch7{border-color:#3fb950}
+.dt-result.ch13{border-color:#60a5fa}
+.dt-result.active{display:block}
+.dt-result h3{font-size:22px;margin-bottom:12px}
+.dt-result.ch7 h3{color:#3fb950}
+.dt-result.ch13 h3{color:#60a5fa}
+.dt-result p{color:#ccc;font-size:15px;line-height:1.8;margin-bottom:12px}
+.dt-restart{background:#60a5fa;color:#0a0a0a;border:none;padding:10px 24px;border-radius:6px;font-weight:600;cursor:pointer;font-size:14px;margin-top:12px}
+.dt-restart:hover{opacity:0.9}
+.dt-progress{display:flex;gap:6px;margin-bottom:20px}
+.dt-dot{width:10px;height:10px;border-radius:50%;background:#333}
+.dt-dot.done{background:#3fb950}
+.dt-dot.current{background:#60a5fa}
+@media(max-width:768px){
+  .hero h1{font-size:24px}
+  .hero{padding:40px 16px 28px}
+  .hamburger{display:block}
+  .nav-links{display:none;width:100%;flex-direction:column;gap:0;padding-top:12px}
+  .nav-links.open{display:flex}
+  .nav-links a{display:block;padding:10px 0;border-top:1px solid #222;min-height:44px;line-height:1.6}
+}
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+<link href="https://chapter7vs13.org/decision-tree.html" hreflang="en" rel="alternate"/>
+<link href="https://chapter7vs13.org/decision-tree-es.html" hreflang="es" rel="alternate"/>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<nav aria-label="Site navigation" class="nav" role="navigation">
+<a class="brand" href="/" style="color:#60a5fa">chapter7vs13.org</a>
+<button aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">☰</button>
+<div class="nav-links">
+<a href="/">Home</a>
+<a href="/comparison.html">Side by Side</a>
+<a href="/which-chapter.html">Which Chapter?</a>
+<a href="/cost-comparison.html">Cost</a>
+<a href="/timeline.html">Timeline</a>
+<a href="/credit-impact.html">Credit</a>
+<a href="/conversion.html">Converting</a>
+</div>
+</nav>
+<div class="hero">
+<div class="badge" style="background:#0d2137;border-color:#60a5fa;color:#60a5fa">Interactive Guide</div>
+<h1>Chapter 7 vs Chapter 13<br/>Decision Tree</h1>
+<p class="subtitle">Answer a few questions about your situation to find out which bankruptcy chapter may be right for you. Based on federal bankruptcy law and 4.9 million case outcomes.</p>
+</div>
+<main id="main-content">
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://chapter7vs13.org/">Chapter7Vs13</a><span class="separator">›</span><span>Decision Tree</span></nav>
+<div class="content">
+<div id="decision-tree">
+<div class="dt-progress" id="dt-progress">
+<div class="dt-dot current" data-step="0"></div>
+<div class="dt-dot" data-step="1"></div>
+<div class="dt-dot" data-step="2"></div>
+<div class="dt-dot" data-step="3"></div>
+<div class="dt-dot" data-step="4"></div>
+<div class="dt-dot" data-step="5"></div>
+</div>
+<div class="dt-step active" id="step-0">
+<div class="dt-question">1. Is your household income below your state's median income?</div>
+<p style="color:#888;font-size:13px;margin-bottom:12px">The <a href="https://bankruptcymeanstest.org">means test</a> compares your last 6 months of income to your state's median for your household size.</p>
+<div class="dt-options">
+<button class="dt-btn" onclick="dtNext(1,'below')">Yes - my income is below the median</button>
+<button class="dt-btn" onclick="dtNext(1,'above')">No - my income is above the median</button>
+<button class="dt-btn" onclick="dtNext(1,'unsure')">I'm not sure</button>
+</div>
+</div>
+<div class="dt-step" id="step-1">
+<div class="dt-question">2. Are you behind on your mortgage and trying to save your home from foreclosure?</div>
+<div class="dt-options">
+<button class="dt-btn" onclick="dtNext(2,'behind')">Yes - I need to catch up on mortgage payments</button>
+<button class="dt-btn" onclick="dtNext(2,'current')">No - I'm current on my mortgage (or I don't own a home)</button>
+</div>
+</div>
+<div class="dt-step" id="step-2">
+<div class="dt-question">3. Do you have significant non-exempt assets you want to protect?</div>
+<p style="color:#888;font-size:13px;margin-bottom:12px">Non-exempt assets are property that exceeds your state's <a href="https://bankruptcyexemptionsbystate.com">exemption limits</a> and could be sold in <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>.</p>
+<div class="dt-options">
+<button class="dt-btn" onclick="dtNext(3,'assets')">Yes - I have valuable property above exemptions</button>
+<button class="dt-btn" onclick="dtNext(3,'noassets')">No - my property is within exemption limits (or I don't own much)</button>
+</div>
+</div>
+<div class="dt-step" id="step-3">
+<div class="dt-question">4. What kind of debt is your primary problem?</div>
+<div class="dt-options">
+<button class="dt-btn" onclick="dtNext(4,'unsecured')">Unsecured debt (credit cards, medical bills, personal loans)</button>
+<button class="dt-btn" onclick="dtNext(4,'secured')">Secured debt (car loans, mortgage arrears)</button>
+<button class="dt-btn" onclick="dtNext(4,'priority')">Priority debt (back taxes, child support, student loans)</button>
+<button class="dt-btn" onclick="dtNext(4,'mixed')">A mix of everything</button>
+</div>
+</div>
+<div class="dt-step" id="step-4">
+<div class="dt-question">5. How important is speed to you?</div>
+<div class="dt-options">
+<button class="dt-btn" onclick="dtNext(5,'fast')">Very - I want this resolved as quickly as possible</button>
+<button class="dt-btn" onclick="dtNext(5,'okay')">I can handle a longer process if it protects my assets</button>
+</div>
+</div>
+<div class="dt-step" id="step-5">
+<div class="dt-question">6. Have you had a bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> in the past 8 years?</div>
+<p style="color:#888;font-size:13px;margin-bottom:12px">Check your eligibility at <a href="https://1328f.com">the discharge screener</a>.</p>
+<div class="dt-options">
+<button class="dt-btn" onclick="dtFinish('recent')">Yes - I received a discharge within the last 8 years</button>
+<button class="dt-btn" onclick="dtFinish('none')">No - no prior discharge (or it was over 8 years ago)</button>
+</div>
+</div>
+<div class="dt-result ch7" id="result-ch7">
+<h3>Chapter 7 Is Likely Your Best Option</h3>
+<p>Based on your answers, <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> bankruptcy appears to be a strong fit. Chapter 7 eliminates most <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured debt</a> in 3-4 months with a success rate above 93%. It is faster, cheaper, and more likely to succeed than Chapter 13.</p>
+<p><strong>Typical cost:</strong> $1,400-$2,900 total (filing fee + attorney). <strong>Timeline:</strong> 3-4 months to <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>.</p>
+<p>Learn more: <a href="/chapter-7.html">Chapter 7 Overview</a> | <a href="/comparison.html">Full Comparison</a> | <a href="https://bankruptcymeanstest.org">Means Test Calculator</a></p>
+<div class="callout green"><p><strong>Important:</strong> This is a general guide, not legal advice. Confirm your eligibility with a bankruptcy attorney who can review your specific financial situation.</p></div>
+<button class="dt-restart" onclick="dtRestart()">Start Over</button>
+</div>
+<div class="dt-result ch13" id="result-ch13">
+<h3>Chapter 13 May Be Your Best Option</h3>
+<p>Based on your answers, Chapter 13 bankruptcy may better serve your goals. Chapter 13 lets you keep all property, cure mortgage arrears, and repay priority debts over 3-5 years. However, only about 48% of Chapter 13 cases result in discharge.</p>
+<p><strong>Typical cost:</strong> $3,300-$5,300 total (filing fee + attorney, paid through plan). <strong>Timeline:</strong> 3-5 years of plan payments.</p>
+<p>Learn more: <a href="/chapter-13.html">Chapter 13 Overview</a> | <a href="/ch7-vs-ch13-homeowners.html">Homeowner Guide</a> | <a href="https://chapter13plan.org">Plan Details</a></p>
+<div class="callout orange"><p><strong>Consider carefully:</strong> Chapter 13 has a ~52% failure rate nationally. Make sure your budget can sustain 3-5 years of plan payments before committing. If your plan fails, you may have nothing to show for years of payments.</p></div>
+<button class="dt-restart" onclick="dtRestart()">Start Over</button>
+</div>
+<div class="dt-result ch13" id="result-ch13-only">
+<h3>Chapter 13 May Be Your Only Option Right Now</h3>
+<p>A prior discharge within the last 8 years may bar you from receiving a Chapter 7 discharge (the waiting period under <a href="https://1328f.com">11 U.S.C. section 1328(f)</a> is 8 years for Ch.7-to-Ch.7). However, you may still be eligible for Chapter 13, which has shorter waiting periods.</p>
+<p>Use the <a href="https://1328f.com">free discharge screener</a> to check your exact waiting period based on your prior case type and discharge date.</p>
+<div class="callout orange"><p><strong>Timing matters:</strong> If you are close to the end of the waiting period, it may be worth waiting a few months to file Chapter 7 instead.</p></div>
+<button class="dt-restart" onclick="dtRestart()">Start Over</button>
+</div>
+<div class="dt-result ch7" id="result-either">
+<h3>You Likely Qualify for Either Chapter</h3>
+<p>Your situation suggests you may have options under both Chapter 7 and Chapter 13. For most people in this position, Chapter 7 is the better choice - it is faster (3-4 months vs 3-5 years), cheaper, and has a 93%+ success rate compared to Chapter 13's ~48%.</p>
+<p>Choose Chapter 13 only if you have a specific reason: saving a home from foreclosure, cramming down a car loan, or needing to repay priority debts like taxes.</p>
+<p>Compare in detail: <a href="/comparison.html">Full Side-by-Side Comparison</a> | <a href="/cost-comparison.html">Cost Comparison</a> | <a href="https://howtofilebankruptcy.org">Filing Guide</a></p>
+<button class="dt-restart" onclick="dtRestart()">Start Over</button>
+</div>
+</div>
+<div class="section"><h2>How This Decision Tree Works</h2>
+<p>This tool walks you through the key factors that determine which bankruptcy chapter fits your situation. It is based on federal bankruptcy law (Title 11, U.S. Code) and outcome data from 4.9 million cases in the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database.</p>
+<p>The six questions cover the most important decision points: <a href="https://meanstest.org/" title="means test">means test</a> eligibility, foreclosure status, asset protection, debt composition, timeline preference, and prior filing history. These are the same factors a bankruptcy attorney evaluates during an initial consultation.</p>
+<p>No personal data is collected or stored. All processing happens in your browser.</p>
+</div>
+<div class="section"><h2>Key Statistics Behind the Recommendations</h2>
+<ul>
+<li><strong>Chapter 7 discharge rate:</strong> 93%+ nationally (FJC data, FY 2008-2024)</li>
+<li><strong>Chapter 13 discharge rate:</strong> approximately 40-50% nationally</li>
+<li><strong>Chapter 7 timeline:</strong> 3-4 months from filing to discharge</li>
+<li><strong>Chapter 13 timeline:</strong> 3-5 years of monthly plan payments</li>
+<li><strong>Chapter 7 cost:</strong> $338 filing fee + $1,000-$2,500 attorney fees</li>
+<li><strong>Chapter 13 cost:</strong> $313 filing fee + $3,000-$5,000 attorney fees</li>
+</ul>
+</div>
+<div class="section"><h2>Frequently Asked Questions</h2>
+<div class="faq-item">
+<div class="faq-q">How do I decide between Chapter 7 and Chapter 13 bankruptcy?</div>
+<div class="faq-a">Start with the <a href="https://meanstest.org/" title="means test">means test</a>: if your income is below your state's median, you likely qualify for Chapter 7. Then consider your goals - do you need to save a home from foreclosure or catch up on car payments? If yes, Chapter 13. If you just want to eliminate <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured debt</a> quickly, Chapter 7 is usually better.</div>
+</div>
+<div class="faq-item">
+<div class="faq-q">What if I qualify for both Chapter 7 and Chapter 13?</div>
+<div class="faq-a">Many people qualify for both. Chapter 7 is generally preferred because it is faster (3-4 months vs 3-5 years), cheaper ($1,400-$2,900 vs $3,300-$5,300), and has a much higher success rate (93%+ vs ~48%). Choose Chapter 13 only if you have a specific reason: saving a home, cramming down a car loan, or repaying <a href="https://nondischargeable.org/" title="nondischargeable">non-dischargeable</a> priority debts.</div>
+</div>
+<div class="faq-item">
+<div class="faq-q">Can I switch from Chapter 13 to Chapter 7?</div>
+<div class="faq-a">Yes. Under 11 U.S.C. section 1307(a), a Chapter 13 debtor can convert to Chapter 7 at any time, as long as the case was not previously converted from Chapter 7. This is a common move when plan payments become unaffordable.</div>
+</div>
+<div class="faq-item">
+<div class="faq-q">What is the means test?</div>
+<div class="faq-a">The means test compares your income to your state's median income for your household size. If you are below the median, you automatically qualify for Chapter 7. If above, you must calculate disposable income after allowed deductions. Many above-median filers still pass after deductions for mortgage, car payments, taxes, and other expenses.</div>
+</div>
+</div>
+<div class="section"><h2>Related Topics on This Site</h2><ul>
+<li><a href="/which-chapter-should-i-file.html">Which Chapter Should I File?</a></li>
+<li><a href="/comparison.html">Full Side-by-Side Comparison</a></li>
+<li><a href="/ch7-vs-ch13-income.html">Income-Based Guide</a></li>
+<li><a href="/ch7-vs-ch13-homeowners.html">Homeowner Guide</a></li>
+<li><a href="/ch7-vs-ch13-cost.html">Cost Comparison</a></li>
+</ul></div>
+<div class="section">
+<p style="font-size:13px;color:#888">Last updated: April 2026. Not legal advice.</p>
+<span class="rules-badge">Part of the Bankruptcy Transparency Network</span>
+</div>
+</div>
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://bankruptcymeanstest.org" style="color:#58a6ff;text-decoration:none">Bankruptcy Means Test by State</a></li>
+<li><a href="https://bankruptcyexemptionsbystate.com" style="color:#58a6ff;text-decoration:none">Bankruptcy Exemptions by State</a></li>
+<li><a href="https://howtofilebankruptcy.org" style="color:#58a6ff;text-decoration:none">How to File Bankruptcy</a></li>
+</ul>
+</div>
+</main>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
+<p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
+<form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
+<input name="email" placeholder="your@email.com" required="" style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px" type="email"/>
+<input name="_subject" type="hidden" value="BTN Research Subscriber"/>
+<button style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer" type="submit">Subscribe</button>
+</form>
+</div>
+<div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer class="network-footer" role="contentinfo">
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+<div class="links">
+<a href="https://1328f.com">1328f.com</a>
+<a href="https://1328f.org">1328f.org</a>
+<a href="https://meanstest.org">meanstest.org</a>
+<a href="https://whatischapter7.com">whatischapter7.com</a>
+<a href="https://chapter13plan.org">chapter13plan.org</a>
+<a href="https://dischargebar.org">dischargebar.org</a>
+<a href="https://523a.org">523a.org</a>
+<a href="https://howmuchdoesbankruptcycost.com">howmuchdoesbankruptcycost.com</a>
+<a href="https://openbankruptcyproject.org">openbankruptcyproject.org</a>
+<a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
+</div>
+<p class="disclaimer">Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590;text-decoration:none">Terms</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" rel="noopener" style="color:#58a6ff" target="_blank">Suggestion 26-BK-3</a></p>
+</div>
+<p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script>
+var answers={};
+function dtNext(step,answer){
+  answers[step-1]=answer;
+  document.querySelectorAll('.dt-step').forEach(function(s){s.classList.remove('active')});
+  var next=document.getElementById('step-'+step);
+  if(next)next.classList.add('active');
+  var dots=document.querySelectorAll('.dt-dot');
+  dots.forEach(function(d,i){
+    d.className='dt-dot';
+    if(i<step)d.classList.add('done');
+    else if(i===step)d.classList.add('current');
+  });
+}
+function dtFinish(answer){
+  answers[5]=answer;
+  document.querySelectorAll('.dt-step').forEach(function(s){s.classList.remove('active')});
+  document.querySelectorAll('.dt-dot').forEach(function(d){d.className='dt-dot done'});
+  var result='result-either';
+  if(answer==='recent'){result='result-ch13-only';}
+  else if(answers[1]==='behind'){result='result-ch13';}
+  else if(answers[2]==='assets'){result='result-ch13';}
+  else if(answers[0]==='above'&&answers[3]==='priority'){result='result-ch13';}
+  else if(answers[0]==='below'&&answers[2]==='noassets'&&answers[4]==='fast'){result='result-ch7';}
+  else if(answers[0]==='below'){result='result-ch7';}
+  else if(answers[3]==='unsecured'&&answers[4]==='fast'){result='result-ch7';}
+  else{result='result-either';}
+  document.getElementById(result).classList.add('active');
+}
+function dtRestart(){
+  answers={};
+  document.querySelectorAll('.dt-result,.dt-step').forEach(function(s){s.classList.remove('active')});
+  document.getElementById('step-0').classList.add('active');
+  document.querySelectorAll('.dt-dot').forEach(function(d,i){
+    d.className='dt-dot';
+    if(i===0)d.classList.add('current');
+  });
+}
+document.querySelectorAll('.faq-q').forEach(function(q){
+  q.addEventListener('click',function(){this.parentElement.classList.toggle('open');});
+});
+</script>
+<script defer="" src="/btn-engage.js"></script>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>
