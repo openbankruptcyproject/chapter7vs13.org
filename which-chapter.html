@@ -39,7 +39,7 @@
       "name": "How do I decide between Chapter 7 and Chapter 13 bankruptcy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Start with the means test: if your income is below your state's median, you likely qualify for Chapter 7. Then consider: do you have non-exempt assets you want to keep? Are you behind on your mortgage? Do you have cosigners? Do you have priority debts like recent taxes? If the answer to all these is no and you pass the means test, Chapter 7 is usually the better option with its 93%+ success rate and 3-4 month timeline."
+        "text": "Start with the means test: filers with income below the state median are typically eligible for Chapter 7. Other factors filers commonly weigh: non-exempt assets they want to keep, mortgage arrears, cosigners, and priority debts like recent taxes. When none of those flag and the means test passes, Chapter 7 is the chapter most commonly selected, with a 93%+ discharge rate and 3-4 month timeline. Consult a bankruptcy attorney to confirm eligibility."
       }
     },
     {
@@ -288,17 +288,17 @@ function updateQuiz() {
   if (q2.value === 'yes') ch13reasons.push('Chapter 13 lets you catch up on missed mortgage and car payments');
   if (q3.value === 'yes') ch13reasons.push('Chapter 13 protects your cosigners with the codebtor stay');
   if (ch13reasons.length === 0) {
-    answer.textContent = 'Chapter 7 may be your best option.';
+    answer.textContent = 'Fact pattern often associated with Chapter 7.';
     answer.style.color = '#58a6ff';
-    detail.textContent = 'Your answers suggest you may qualify for Chapter 7, which is faster (3-4 months) and typically costs less. Take the means test to confirm eligibility.';
+    detail.textContent = 'Filers with this combination of answers commonly explore Chapter 7, which runs 3-4 months and typically costs less. Take the means test and consult a bankruptcy attorney to confirm eligibility. This output is educational only — not legal advice.';
   } else if (ch13reasons.length >= 2) {
-    answer.textContent = 'Chapter 13 is likely your better option.';
+    answer.textContent = 'Fact pattern often associated with Chapter 13.';
     answer.style.color = '#3fb950';
-    detail.textContent = 'Based on your answers: ' + ch13reasons.join('; ') + '. Chapter 13 takes 3-5 years but offers more flexibility.';
+    detail.textContent = 'Multiple Chapter 13 factors flagged: ' + ch13reasons.join('; ') + '. Chapter 13 runs 3-5 years and offers more flexibility for the situations above. Consult a bankruptcy attorney to confirm. This output is educational only — not legal advice.';
   } else {
-    answer.textContent = 'Either chapter could work. Consider both.';
+    answer.textContent = 'Either chapter may apply. Both worth comparing.';
     answer.style.color = '#e3a835';
-    detail.textContent = 'One factor points toward Chapter 13: ' + ch13reasons[0] + '. But you may still qualify for Chapter 7. Take the means test to find out.';
+    detail.textContent = 'One factor points toward Chapter 13: ' + ch13reasons[0] + '. Chapter 7 may also be available. Take the means test and consult a bankruptcy attorney. This output is educational only — not legal advice.';
   }
 }
 </script>
@@ -396,10 +396,10 @@ function updateQuiz() {
 <div class="section">
   <h2>The Decision Summary</h2>
   <div class="callout green">
-    <p><strong>Chapter 7 is usually the better choice if:</strong> You pass the <a href="https://meanstest.org" title="Bankruptcy Means Test - Open Bankruptcy Project" target="_blank" rel="noopener">means test</a>, your assets are within exemptions, you are current on secured debts, you have no cosigners to protect, and you want the fastest path to a <a href="https://bankruptcyfreshstart.org" title="Fresh Start After Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">fresh start</a>. The 93%+ discharge rate and 3-4 month timeline make it the strongest option for most qualifying filers.</p>
+    <p><strong>Chapter 7 is commonly used when filers:</strong> pass the <a href="https://meanstest.org" title="Bankruptcy Means Test - Open Bankruptcy Project" target="_blank" rel="noopener">means test</a>, hold assets within exemption limits, are current on secured debts, have no cosigners requiring codebtor-stay protection, and want the fastest path to a <a href="https://bankruptcyfreshstart.org" title="Fresh Start After Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">fresh start</a>. The 93%+ discharge rate and 3-4 month timeline are why this chapter is frequently selected by qualifying filers.</p>
   </div>
   <div class="callout orange">
-    <p><strong>Chapter 13 is the better choice if:</strong> You are behind on your mortgage, you have non-exempt assets, you earn too much for Chapter 7, you need cosigner protection, or you need the superdischarge. But go in with open eyes: the 40-50% national discharge rate means the plan must be realistic and your income must be stable for 3-5 years.</p>
+    <p><strong>Chapter 13 is commonly used when filers:</strong> are behind on a mortgage they want to keep, have non-exempt assets to protect, do not pass the means test, need cosigner protection, or need the superdischarge. The 40-50% national discharge rate means realistic budgeting and stable 3-5 year income are central to whether the plan completes.</p>
   </div>
 </div>
 
