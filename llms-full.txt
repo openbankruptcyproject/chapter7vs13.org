@@ -1966,7 +1966,7 @@ Waiting Periods
 Discharge Screener
 Research
 
-Based on 4.9 Million Federal Court Cases
+Based on 8 Million Federal Court Cases
 
 Chapter 13 Bankruptcy:
 The Complete Guide
@@ -2287,7 +2287,7 @@ Yes, under § 1307(a), you generally have the right to convert at any time. You 
 
 About This Data
 
-Statistics on this site are derived from the Federal Judicial Center Integrated Database, which contains records for over 4.9 million bankruptcy cases across all 94 federal districts. Discharge and dismissal rates reflect resolved cases where a final outcome has been reached. Attorney market concentration data is based on analysis of attorney-case pairings in the FJC database.
+Statistics on this site are derived from the Federal Judicial Center Integrated Database, which contains records for over 8 million bankruptcy cases across all 94 federal districts. Discharge and dismissal rates reflect resolved cases where a final outcome has been reached. Attorney market concentration data is based on analysis of attorney-case pairings in the FJC database.
 
 This is an educational resource, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -2432,7 +2432,7 @@ Waiting Periods
 Discharge Screener
 Research
 
-Based on 4.9 Million Federal Court Cases
+Based on 8 Million Federal Court Cases
 
 Chapter 7 Bankruptcy:
 The Complete Guide
@@ -2739,7 +2739,7 @@ A brief 5-10 minute hearing where the trustee asks you questions about your fina
 
 About This Data
 
-Statistics on this site are derived from the Federal Judicial Center Integrated Database, which contains records for over 4.9 million bankruptcy cases across all 94 federal districts. Discharge rates reflect resolved cases where a final outcome has been reached.
+Statistics on this site are derived from the Federal Judicial Center Integrated Database, which contains records for over 8 million bankruptcy cases across all 94 federal districts. Discharge rates reflect resolved cases where a final outcome has been reached.
 
 This is an educational resource, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -2896,7 +2896,7 @@ The Definitive Comparison
 Chapter 7 vs Chapter 13:
 Master Comparison Table
 
-Every major difference between Chapter 7 and Chapter 13 bankruptcy in one table. Eligibility, duration, cost, what you keep, credit impact, income requirements, debt limits, trustee role, and plan payments - based on 4.9 million federal court records.
+Every major difference between Chapter 7 and Chapter 13 bankruptcy in one table. Eligibility, duration, cost, what you keep, credit impact, income requirements, debt limits, trustee role, and plan payments - based on 8 million federal court records.
 
 Home›Chapter 7 vs 13›Comparison Table
 
@@ -3117,11 +3117,11 @@ Credit report10 years7 years
 
 Completion rate~95% discharged~33-40% complete
 
-Source: Federal court records, 4.9 million cases. Explore the data
+Source: Federal court records, 8 million cases. Explore the data
 
 The Master Comparison Table
 
-This table covers every major difference between Chapter 7 and Chapter 13 bankruptcy. Data is based on federal court records covering 4.9 million cases across all 94 districts.
+This table covers every major difference between Chapter 7 and Chapter 13 bankruptcy. Data is based on federal court records covering 8 million cases across all 94 districts.
 
 CategoryChapter 7Chapter 13
 
@@ -4892,7 +4892,7 @@ Interactive Guide
 Chapter 7 vs Chapter 13
 Decision Tree
 
-Answer a few questions about your situation to find out which bankruptcy chapter may be right for you. Based on federal bankruptcy law and 4.9 million case outcomes.
+Answer a few questions about your situation to find out which bankruptcy chapter may be right for you. Based on federal bankruptcy law and 8 million case outcomes.
 
 Home›Chapter7Vs13›Decision Tree
 
@@ -4981,7 +4981,7 @@ Start Over
 
 How This Decision Tree Works
 
-This tool walks you through the key factors that determine which bankruptcy chapter fits your situation. It is based on federal bankruptcy law (Title 11, U.S. Code) and outcome data from 4.9 million cases in the Federal Judicial Center Integrated Database.
+This tool walks you through the key factors that determine which bankruptcy chapter fits your situation. It is based on federal bankruptcy law (Title 11, U.S. Code) and outcome data from 8 million cases in the Federal Judicial Center Integrated Database.
 
 The six questions cover the most important decision points: means test eligibility, foreclosure status, asset protection, debt composition, timeline preference, and prior filing history. These are the same factors a bankruptcy attorney evaluates during an initial consultation.
 
@@ -5490,7 +5490,7 @@ Converting
 
 Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
-Based on 4.9 Million Federal Court Cases
+Based on 8 Million Federal Court Cases
 
 Chapter 7 vs Chapter 13 Bankruptcy
 
@@ -5518,7 +5518,7 @@ Credit report10 years7 years
 
 Completion rate~95% discharged~33-40% complete
 
-Source: Federal court records, 4.9 million cases. Explore the data
+Source: Federal court records, 8 million cases. Explore the data
 
 Not sure which chapter is right for you?
 
@@ -5792,7 +5792,7 @@ Under 11 U.S.C. Section 1307(a), a Chapter 13 debtor generally has the absolute 
 
 About This Data
 
-Statistics on this site are derived from the Federal Judicial Center Integrated Database, which contains records for over 4.9 million bankruptcy cases across all 94 federal districts. Discharge and dismissal rates reflect resolved cases where a final outcome has been reached.
+Statistics on this site are derived from the Federal Judicial Center Integrated Database, which contains records for over 8 million bankruptcy cases across all 94 federal districts. Discharge and dismissal rates reflect resolved cases where a final outcome has been reached.
 
 This is an educational resource, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -6314,7 +6314,7 @@ Waiting Periods
 Discharge Screener
 Research
 
-Based on 4.9 Million Federal Court Cases
+Based on 8 Million Federal Court Cases
 
 The Bankruptcy Means Test:
 Do You Qualify for Chapter 7?
@@ -6567,7 +6567,7 @@ They vary by state and household size. For a single filer, they range from rough
 
 About This Data
 
-Statistics on this site are derived from the Federal Judicial Center Integrated Database, which contains records for over 4.9 million bankruptcy cases across all 94 federal districts. Median income thresholds are published by the U.S. Trustee Program based on Census Bureau data.
+Statistics on this site are derived from the Federal Judicial Center Integrated Database, which contains records for over 8 million bankruptcy cases across all 94 federal districts. Median income thresholds are published by the U.S. Trustee Program based on Census Bureau data.
 
 This is an educational resource, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -6980,7 +6980,7 @@ Waiting Periods
 Discharge Screener
 Research
 
-Based on 4.9 Million Federal Court Cases
+Based on 8 Million Federal Court Cases
 
 Bankruptcy Waiting Periods:
 How Long Between Filings?
@@ -7150,7 +7150,7 @@ The free discharge eligibility screener at 1328f.com calculates your specific wa
 Check Your Discharge Eligibility - Free Tool
 727(a)(8) Deep Dive - 727a8.com
 
-The screener is built on federal court data covering 4.9 million cases. It uses the exact same statutory logic as the court: filing date to filing date, chapter to chapter. No account required, no data stored.
+The screener is built on federal court data covering 8 million cases. It uses the exact same statutory logic as the court: filing date to filing date, chapter to chapter. No account required, no data stored.
 
 The Prior-Filer Problem
 
@@ -7198,7 +7198,7 @@ Section 1328(f) is the statute that sets Chapter 13 discharge bars. It contains 
 
 About This Data
 
-Statistics on this site are derived from the Federal Judicial Center Integrated Database, which contains records for over 4.9 million bankruptcy cases across all 94 federal districts. Prior-filer rates and waiting period impact data reflect analysis of resolved cases.
+Statistics on this site are derived from the Federal Judicial Center Integrated Database, which contains records for over 8 million bankruptcy cases across all 94 federal districts. Prior-filer rates and waiting period impact data reflect analysis of resolved cases.
 
 This is an educational resource, not legal advice. Consult a qualified attorney for your specific situation.
 
