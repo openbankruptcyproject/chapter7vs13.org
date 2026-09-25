@@ -474,7 +474,7 @@ The 910-day rule was added by BAPCPA in 2005 specifically to prevent strategic c
 
 Vehicle Exemptions by State
 
-In Chapter 7, your car equity must be within your state's vehicle exemption to be protected. Common ranges: $2,500 (Alabama) to $6,000 (California System 1) to unlimited (a few states for one vehicle). If you choose federal exemptions (where available), the vehicle exemption is $4,450.
+In Chapter 7, your car equity must be within your state's vehicle exemption to be protected. Common ranges: $2,500 (Alabama) to $6,000 (California System 1) to unlimited (a few states for one vehicle). If you choose federal exemptions (where available), the vehicle exemption is $5,025.
 
 Equity = car value minus loan balance. If your car is worth $12,000 and you owe $10,000, you have $2,000 in equity - well within most exemptions. If your car is paid off and worth $15,000, you may exceed your exemption.
 
@@ -1989,7 +1989,7 @@ Protect non-exempt assets that would be liquidated in Chapter 7
 
 Obtain a discharge when they earn too much to pass the Chapter 7 means test
 
-Chapter 13 is governed by 11 U.S.C. §§ 1301-1330. Only individuals (not businesses) may file Chapter 13, and there are debt limits: unsecured debts must be under $465,275 and secured debts under $1,395,875 (these amounts adjust periodically).
+Chapter 13 is governed by 11 U.S.C. §§ 1301-1330. Only individuals (not businesses) may file Chapter 13, and there are debt limits: unsecured debts must be under $526,700 and secured debts under $1,580,125 (these amounts adjust periodically).
 
 The Uncomfortable Truth: 40-50% Discharge Rate
 
@@ -2577,7 +2577,7 @@ Tools of the tradeEquipment for your job/business$2,400 - $7,500
 
 Retirement accounts401(k), IRA, pensionGenerally fully protected
 
-WildcardAny property (your choice)$0 - $13,950 (varies by state)
+WildcardAny property (your choice)$0 - $15,800 (varies by state)
 
 Public benefitsSocial Security, unemployment, VAGenerally fully protected
 
@@ -3147,7 +3147,7 @@ Total cost$1,400-$2,900$3,300-$5,400
 
 Income eligibilityMust pass means testNo income ceiling (regular income required)
 
-Debt limitsNo limitsSecured: $2,750,000; Unsecured: $2,750,000 (as of 2024)
+Debt limitsNo limitsSecured: $1,580,125; Unsecured: $526,700 (as of April 1, 2025)
 
 Property treatmentNon-exempt assets may be soldKeep all assets; pay equivalent value through plan
 
@@ -3986,7 +3986,7 @@ To convert to Chapter 13, you must meet these requirements:
 
 Regular income: You need a source of regular income sufficient to fund a repayment plan. This includes wages, self-employment income, Social Security, pension, or even regular contributions from a spouse or family member.
 
-Debt limits (as of 2026): Your total noncontingent, liquidated debts must be less than $2,750,000 (combined secured and unsecured). This limit was updated by the Bankruptcy Threshold Adjustment and Technical Corrections Act.
+Debt limits (as of 2026): Your noncontingent, liquidated debts must be less than $526,700 unsecured and $1,580,125 secured. This limit was updated by the Bankruptcy Threshold Adjustment and Technical Corrections Act.
 
 Current on tax filings: You must have filed all required tax returns for the 4 years preceding your bankruptcy case.
 
@@ -6083,19 +6083,19 @@ Federal Exemption Amounts (2026)
 
 Property TypeFederal ExemptionNotes
 
-Homestead$27,900Per person; doubles for married couples filing jointly
+Homestead$31,575Per person; doubles for married couples filing jointly
 
-Vehicle$4,450One vehicle; equity above this amount is at risk
+Vehicle$5,025One vehicle; equity above this amount is at risk
 
-Household goods$700 per item, $14,875 totalFurniture, appliances, clothing
+Household goods$800 per item, $16,850 totalFurniture, appliances, clothing
 
-Jewelry$1,875Total for all jewelry
+Jewelry$2,125Total for all jewelry
 
-Wildcard$1,475 + up to $13,950 unused homesteadApply to any property
+Wildcard$1,675 + up to $15,800 unused homesteadApply to any property
 
 Retirement accountsFully exempt (unlimited)401(k), IRA, pension, etc.
 
-Tools of trade$2,800Equipment needed for your job
+Tools of trade$3,175Equipment needed for your job
 
 State exemptions vary widely. Some states like Texas and Florida offer unlimited homestead exemptions. Others like New Jersey cap the homestead at $0 (no state homestead exemption). Your state's exemption laws can be the deciding factor in whether Chapter 7 works for you. Check bankruptcyexemptionsbystate.com for your state's specific amounts.
 
