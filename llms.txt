@@ -1,46 +1,99 @@
 # Chapter 7 vs 13 Bankruptcy - Complete Comparison [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
-> Chapter 7 vs Chapter 13 - which is right for you? Compare eligibility, cost, timeline, and what you keep with our data-driven tool. Free 2026 guide.
+> Chapter 7 vs Chapter 13 bankruptcy (also chapter 13 vs chapter 7, bankruptcy chapter 13 vs chapter 7, chapter 7 bankruptcy vs chapter 13): which is right for
 
 ## About
 chapter7vs13.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Chapter 7 vs Chapter 13 After Divorce (2026): https://chapter7vs13.org/bankruptcy-after-divorce.html
+- Bankruptcy After Divorce [2026]: Joint Debts, 11 USC 523(a)(5)/(15) Domestic Support, and Timing: https://chapter7vs13.org/bankruptcy-after-divorce.html
 - Chapter 7 vs Chapter 13: Keeping Your Assets (2026): https://chapter7vs13.org/ch7-vs-ch13-assets.html
 - Chapter 7 vs Chapter 13 for Business Owners (2026): https://chapter7vs13.org/ch7-vs-ch13-business-owners.html
 - Chapter 7 vs Chapter 13 for Car Owners (2026): https://chapter7vs13.org/ch7-vs-ch13-car-owners.html
-- Chapter 7 vs Chapter 13 Cost Comparison (2026): https://chapter7vs13.org/ch7-vs-ch13-cost.html
-- Chapter 7 vs Chapter 13: Credit Score Impact (2026): https://chapter7vs13.org/ch7-vs-ch13-credit-score.html
-- Chapter 7 vs Chapter 13: Which Debts Are Eliminated? (2026): https://chapter7vs13.org/ch7-vs-ch13-debt-types.html
+- Chapter 7 vs Chapter 13 Cost [2026]: $338 vs $313 Filing Fee Plus $1,500-$6,000 Attorney Fee: https://chapter7vs13.org/ch7-vs-ch13-cost.html
+- Chapter 7 vs Chapter 13 Credit Score Impact [2026]: 10-Year vs 7-Year FCRA Reporting Window: https://chapter7vs13.org/ch7-vs-ch13-credit-score.html
+- Chapter 7 vs Chapter 13 Debt Discharge [2026]: 11 USC 727 vs 1328 Coverage Differences: https://chapter7vs13.org/ch7-vs-ch13-debt-types.html
 - Chapter 7 vs Chapter 13 for Homeowners (2026): https://chapter7vs13.org/ch7-vs-ch13-homeowners.html
 - Chapter 7 vs Chapter 13: Income Requirements (2026): https://chapter7vs13.org/ch7-vs-ch13-income.html
-- Chapter 7 vs Chapter 13 for Seniors and Retirees (2026): https://chapter7vs13.org/ch7-vs-ch13-seniors.html
+- Chapter 7 vs Chapter 13 for Seniors [2026]: Social Security Income, Retirement Protection, and 11 USC 522(d)(12): https://chapter7vs13.org/ch7-vs-ch13-seniors.html
 - Chapter 7 vs Chapter 13 and Student Loans (2026): https://chapter7vs13.org/ch7-vs-ch13-student-loans.html
-- Chapter 7 vs Chapter 13 Timeline Comparison (2026): https://chapter7vs13.org/ch7-vs-ch13-timeline.html
+- Chapter 7 vs Chapter 13 Timeline [2026]: 4-6 Month Discharge vs 36-60 Month Plan: https://chapter7vs13.org/ch7-vs-ch13-timeline.html
 - Chapter 7 vs Chapter 13 for Veterans (2026): https://chapter7vs13.org/ch7-vs-ch13-veterans.html
-- Chapter 13 Bankruptcy: The Complete Guide (2026): https://chapter7vs13.org/chapter-13.html
-- Chapter 7 Bankruptcy: The Complete Guide (2026): https://chapter7vs13.org/chapter-7.html
+- Chapter 13 Bankruptcy [2026]: 11 USC 1322 Plan, 1325 Confirmation, and 1328 Discharge: https://chapter7vs13.org/chapter-13.html
+- Chapter 7 Bankruptcy [2026]: 11 USC 707 Means Test, 522 Exemptions, and 727 Discharge: https://chapter7vs13.org/chapter-7.html
 - Chapter 7 vs Chapter 13 Comparison Table - Side-by-Side: https://chapter7vs13.org/comparison-table.html
-- Chapter 7 vs Chapter 13 Comparison Chart - Complete Side-by-Side (2026): https://chapter7vs13.org/comparison.html
-- Convert Chapter 13 to 7 or 7 to 13 (2026): https://chapter7vs13.org/conversion.html
+- Chapter 7 vs Chapter 13 Comparison Chart [2026]: Side-by-Side Eligibility, Timeline, and Discharge: https://chapter7vs13.org/comparison.html
+- Converting Chapter 13 to Chapter 7 [2026]: 11 USC 1307(a) Right and 706 Reverse Conversion: https://chapter7vs13.org/conversion.html
 - Converting Chapter 13 to Chapter 7 Bankruptcy - Complete Guide (2026): https://chapter7vs13.org/convert-chapter-13-to-chapter-7.html
 - Converting Chapter 7 to Chapter 13 Bankruptcy - Save Your Home and Assets (2026): https://chapter7vs13.org/convert-chapter-7-to-chapter-13.html
-- Chapter 7 vs Chapter 13 Cost Comparison - Filing Fees, Attorney Fees (2026): https://chapter7vs13.org/cost-comparison.html
-- Chapter 7 vs 13 Credit Impact (2026): https://chapter7vs13.org/credit-impact.html
-- Debts Discharged Ch.7 vs 13 - Superdischarge (2026): https://chapter7vs13.org/debt-types.html
+- Chapter 7 vs Chapter 13 Cost Comparison [2026]: Filing Fees, Attorney Fees, and Plan Trustee Payments: https://chapter7vs13.org/cost-comparison.html
+- Chapter 7 vs Chapter 13 Credit Impact [2026]: FICO Score Recovery and Post-Discharge Lending: https://chapter7vs13.org/credit-impact.html
+- Debts Discharged Chapter 7 vs Chapter 13 [2026]: 1328(a) Superdischarge Differences: https://chapter7vs13.org/debt-types.html
 - Chapter 7 vs Chapter 13 Decision Tree - Which Should You File? (2026): https://chapter7vs13.org/decision-tree.html
 - Emergency Bankruptcy Filing - Bare-Bones Petition Guide (2026): https://chapter7vs13.org/emergency-bankruptcy-filing.html
 - Chapter 7 vs Chapter 13 FAQ - Which Bankruptcy Should You File?: https://chapter7vs13.org/frequently-asked-questions.html
 - Chapter 7 vs 13 Bankruptcy - Complete Comparison: https://chapter7vs13.org/
-- Keep House and Car in Bankruptcy (2026): https://chapter7vs13.org/keep-property.html
+- Keep House and Car in Bankruptcy [2026]: 11 USC 522 Exemptions, Reaffirmation, and 1322(b)(5) Cure: https://chapter7vs13.org/keep-property.html
 - The Bankruptcy Means Test: Do You Qualify for Chapter 7? (2026): https://chapter7vs13.org/means-test.html
-- How Long Does Chapter 7 vs Chapter 13 Take? Timeline Comparison (2026): https://chapter7vs13.org/timeline.html
-- Bankruptcy Waiting Periods: How Long Between Filings? (2026): https://chapter7vs13.org/waiting-periods.html
+- Chapter 7 vs Chapter 13 Timeline [2026]: 4-6 Month Liquidation vs 36-60 Month Plan: https://chapter7vs13.org/timeline.html
+- Bankruptcy Refiling Waiting Periods [2026]: 11 USC 727(a)(8)/(9) and 1328(f) Bars: https://chapter7vs13.org/waiting-periods.html
 - Which Bankruptcy Chapter Should I File? (2026 Decision Guide): https://chapter7vs13.org/which-chapter-should-i-file.html
-- Should I File Chapter 7 or Chapter 13? Decision Framework (2026): https://chapter7vs13.org/which-chapter.html
+- Should I File Chapter 7 or Chapter 13? [2026]: Means-Test Decision Framework Under 11 USC 707(b): https://chapter7vs13.org/which-chapter.html
 - Privacy Policy: https://chapter7vs13.org/privacy.html
+- About chapter7vs13.org: https://chapter7vs13.org/about.html
+- Chapter 7 vs Chapter 13 in Alabama [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/alabama.html
+- Chapter 7 vs Chapter 13 in Alaska [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/alaska.html
+- Chapter 7 vs Chapter 13 in Arizona [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/arizona.html
+- Chapter 7 vs Chapter 13 in Arkansas [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/arkansas.html
+- Chapter 7 vs Chapter 13 in California [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/california.html
+- Chapter 7 vs Chapter 13 in Colorado [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/colorado.html
+- Chapter 7 vs Chapter 13 in Connecticut [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/connecticut.html
+- Chapter 7 vs Chapter 13 in Delaware [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/delaware.html
+- Chapter 7 vs Chapter 13 in District of Columbia [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/district-of-columbia.html
+- Chapter 7 vs Chapter 13 in Florida [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/florida.html
+- Chapter 7 vs Chapter 13 in Georgia [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/georgia.html
+- Chapter 7 vs Chapter 13 in Hawaii [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/hawaii.html
+- Chapter 7 vs Chapter 13 in Idaho [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/idaho.html
+- Chapter 7 vs Chapter 13 in Illinois [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/illinois.html
+- Chapter 7 vs Chapter 13 by State: https://chapter7vs13.org/states/
+- Chapter 7 vs Chapter 13 in Indiana [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/indiana.html
+- Chapter 7 vs Chapter 13 in Iowa [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/iowa.html
+- Chapter 7 vs Chapter 13 in Kansas [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/kansas.html
+- Chapter 7 vs Chapter 13 in Kentucky [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/kentucky.html
+- Chapter 7 vs Chapter 13 in Louisiana [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/louisiana.html
+- Chapter 7 vs Chapter 13 in Maine [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/maine.html
+- Chapter 7 vs Chapter 13 in Maryland [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/maryland.html
+- Chapter 7 vs Chapter 13 in Massachusetts [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/massachusetts.html
+- Chapter 7 vs Chapter 13 in Michigan [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/michigan.html
+- Chapter 7 vs Chapter 13 in Minnesota [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/minnesota.html
+- Chapter 7 vs Chapter 13 in Mississippi [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/mississippi.html
+- Chapter 7 vs Chapter 13 in Missouri [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/missouri.html
+- Chapter 7 vs Chapter 13 in Montana [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/montana.html
+- Chapter 7 vs Chapter 13 in Nebraska [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/nebraska.html
+- Chapter 7 vs Chapter 13 in Nevada [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/nevada.html
+- Chapter 7 vs Chapter 13 in New Hampshire [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/new-hampshire.html
+- Chapter 7 vs Chapter 13 in New Jersey [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/new-jersey.html
+- Chapter 7 vs Chapter 13 in New Mexico [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/new-mexico.html
+- Chapter 7 vs Chapter 13 in New York [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/new-york.html
+- Chapter 7 vs Chapter 13 in North Carolina [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/north-carolina.html
+- Chapter 7 vs Chapter 13 in North Dakota [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/north-dakota.html
+- Chapter 7 vs Chapter 13 in Ohio [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/ohio.html
+- Chapter 7 vs Chapter 13 in Oklahoma [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/oklahoma.html
+- Chapter 7 vs Chapter 13 in Oregon [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/oregon.html
+- Chapter 7 vs Chapter 13 in Pennsylvania [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/pennsylvania.html
+- Chapter 7 vs Chapter 13 in Rhode Island [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/rhode-island.html
+- Chapter 7 vs Chapter 13 in South Carolina [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/south-carolina.html
+- Chapter 7 vs Chapter 13 in South Dakota [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/south-dakota.html
+- Chapter 7 vs Chapter 13 in Tennessee [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/tennessee.html
+- Chapter 7 vs Chapter 13 in Texas [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/texas.html
+- Chapter 7 vs Chapter 13 in Utah [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/utah.html
+- Chapter 7 vs Chapter 13 in Vermont [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/vermont.html
+- Chapter 7 vs Chapter 13 in Virginia [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/virginia.html
+- Chapter 7 vs Chapter 13 in Washington [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/washington.html
+- Chapter 7 vs Chapter 13 in West Virginia [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/west-virginia.html
+- Chapter 7 vs Chapter 13 in Wisconsin [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/wisconsin.html
+- Chapter 7 vs Chapter 13 in Wyoming [2026]: Means Test, Homestead, and Filing Data: https://chapter7vs13.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
