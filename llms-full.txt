@@ -1,6 +1,6 @@
 # chapter7vs13.org -- Full Content
 
-> Last updated: 2026-09-25
+> Last updated: 2026-10-28
 
 This file contains the full text content of all pages on chapter7vs13.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -1598,7 +1598,7 @@ Strategy: Many bankruptcy attorneys recommend filing Chapter 7 to eliminate all 
 
 Income-Driven Repayment After Bankruptcy
 
-Federal student loan borrowers can enroll in income-driven repayment (IDR) plans after bankruptcy. Under the SAVE, PAYE, or IBR plans, payments are based on discretionary income. After 20-25 years of payments (or 10 years under PSLF), remaining balances are forgiven.
+Federal student loan borrowers can enroll in income-driven repayment (IDR) plans after bankruptcy. Under plans such as IBR or the Repayment Assistance Plan, payments are based on income. After 20 to 30 years of payments (or 10 years under PSLF), remaining balances are forgiven.
 
 Filing Chapter 7 and eliminating other debts can reduce your AGI, which lowers your IDR payments - sometimes to $0/month. This creates a pathway to eventual forgiveness without the difficulty of proving undue hardship.
 
